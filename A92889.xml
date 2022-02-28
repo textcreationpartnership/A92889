@@ -1,0 +1,1209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the sands, shoals, buoyes, beacons, roads, channels, and sea marks on the coast of England from the southforeland to Flamborough head, being furnished with new &amp; exact droughts of the sands, acording to the said descriptions / by John Seller, hydrographer to the Kings most excellent Majestie, and are to be sold by him at the Hermitage staires in Wapping.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 145 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92889</idno>
+            <idno type="STC">Wing S2470B</idno>
+            <idno type="STC">ESTC R43736</idno>
+            <idno type="EEBO-CITATION">42475169</idno>
+            <idno type="OCLC">ocm 42475169</idno>
+            <idno type="VID">151324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the sands, shoals, buoyes, beacons, roads, channels, and sea marks on the coast of England from the southforeland to Flamborough head, being furnished with new &amp; exact droughts of the sands, acording to the said descriptions / by John Seller, hydrographer to the Kings most excellent Majestie, and are to be sold by him at the Hermitage staires in Wapping.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>[2], 20 p., [2] leaves of plates : maps.  </extent>
+               <publicationStmt>
+                  <publisher>[J. Seller?,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher and date suggested by Wing.</note>
+                  <note>Title page engraved, illustrated.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nautical charts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151324:1" rendition="simple:additions"/>
+            <p>A Description of the SANDS. SHOALS. BUOYES. BEACONS. ROADS. CHANNELS. AND SEA MARKS. ON THE COAST OF ENGLAND From the Southforeland to Flamborough head, being furniſhed with new &amp; exact draughts of the ſands, acording to the ſaid descriptions.</p>
+            <p>
+               <hi>By</hi> John Seller.</p>
+            <p>
+               <hi>Hydrographer to the Kings moſt Excelent Majeſtie</hi>
+            </p>
+            <p>
+               <hi>And are to be Sold by him at the Hermitage ſtaires in Wapping.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of English explorers</figDesc>
+               <head>Englands Famous Discoverers</head>
+               <figure>
+                  <head>Cap. Davies</head>
+               </figure>
+               <figure>
+                  <head>S<hi rend="sup">r</hi>. Walter Rawleigh.</head>
+               </figure>
+               <figure>
+                  <head>S<hi rend="sup">r</hi>. Hugh Willoughby.</head>
+               </figure>
+               <figure>
+                  <head>Cap. Smith</head>
+               </figure>
+               <figure>
+                  <head>S<hi rend="sup">r</hi>. Fran: Drake</head>
+               </figure>
+               <figure>
+                  <head>M<hi rend="sup">r</hi>. Tho: Candiſh</head>
+               </figure>
+               <figure>
+                  <head>free holder</head>
+               </figure>
+            </figure>
+            <figure>
+               <figDesc>view of London</figDesc>
+               <head>LONDON</head>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151324:2"/>
+            <pb n="1" facs="tcp:151324:2"/>
+            <head>A DESCRIPTION OF THE
+<list>
+                  <item>Sands, Shoals, Rocks, and Dangers; The Bayes, Roads, Harbours, Rivers, Ports, Buoys, Beacons, and Sea-Marks, <hi>&amp;c.</hi> upon the Coaſts of <hi>England,</hi> from the <hi>South-Foreland</hi> to <hi>Flambrough-head.</hi>
+                  </item>
+                  <item>Shewing the Courſes and Diſtances from one Place to another: The Set<g ref="char:EOLhyphen"/>ting of the Tydes and Currents: The Ebbing and Flowing of the Sea. With Directions for the bringing a Ship into any Harbour on the ſaid Coaſts.</item>
+                  <item>Being furniſhed with New and Exact Draughts, Charts, and Deſcripti<g ref="char:EOLhyphen"/>ons of every Harbour; gathered from the Experience and Practice of divers Able and Expert Navigators of our Engliſh Nation.</item>
+               </list>
+            </head>
+            <head type="sub">Collected, Deſcribed, and Publiſhed, by <hi>JOHN SELLER,</hi> Hydrographer to the King's Moſt Excellent Majeſty.</head>
+            <div type="part">
+               <head>
+                  <hi>A ſhort Deſcription of the River of</hi> Thames, <hi>from</hi> London-Bridge <hi>to the Point of the</hi> Hope: <hi>Shewing the Shelves and Dangers in each Reach.</hi>
+               </head>
+               <div type="section">
+                  <head>The Pool,</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>S that part of the River that lyeth from <hi>London-Bridge</hi> to <hi>Cuckolds-Point,</hi> and is divided into three parts. Firſt, From <hi>London-Bridge</hi> to <hi>Wapping-Neſs,</hi> which lyeth Weſt-North-Weſt and Eaſt-South-Eaſt. And about the lower end thereof, near to <hi>Fountain-ſtairs,</hi>
+                     <note place="margin">A Rock.</note> lyeth a Rock on the South ſide, which is dangerous for Ships to come aground upon. The ſecond part reacheth from <hi>Wapping-Neſs</hi> to <hi>Rat<g ref="char:EOLhyphen"/>cliff-Check,</hi> and lyeth N. E. and S. W. The third part reacheth from <hi>Ratcliff-Check</hi> to <hi>Cuckolds-Point,</hi> and ly<g ref="char:EOLhyphen"/>eth rounding upon four Points of the Compaſs, from the N. E. to the Eaſt. Theſe three Reaches are no<g ref="char:EOLhyphen"/>ted in the Draught of the River with the letters <hi>a, b, c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Limehouſe-Reach.</head>
+                  <p>This Reach leadeth from <hi>Cuckolds-Point</hi> down to <hi>Deptford,</hi> and lyeth North and South; on the Weſt ſide are two Windmills, from the ſouthermoſt of which, about half a mile down the River,
+<note place="margin">A Shoal.</note> is very ſhoal and flat, ſhoaling from the Eaſt ſide of the River, called the <hi>Iſle of Dogs;</hi>
+                     <note place="margin">Iſle of. Dogs.</note> there being not above ſix foot at low-water. This Reach is noted in the Draught with the letter <hi>d.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Greenwich-Reach.</head>
+                  <p>This Reach lyeth from <hi>Deptford</hi> to the lower end of <hi>Greenwich,</hi> and is much winding, but about the middle it lyeth Eaſt and Weſt: At the lower end thereof is a convenient place for Ships to ride,
+<note place="margin">Green<g ref="char:EOLhyphen"/>which-hole.</note> called <hi>Greenwich-Hole;</hi> and there is in this Hole about two fathom at low-water. There is a Shoal,
+<note place="margin">A Shoal.</note> at the upper end of this Reach, that lyeth off from <hi>Sanders-Neſs.</hi> This Reach is noted in the Draught with the letter <hi>e.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Blackwall-Reach.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> This Reach lyeth from the lower end of <hi>Greenwich</hi> to <hi>Blackwall</hi> Town:
+<note place="margin">Blackwall.</note> This Reach is very good for Ships to ride in any part thereof, but eſpecially on the Weſt ſide, which is the beſt of the Channel from <hi>Layneſs</hi> or <hi>Blackwall</hi>-point, which lyeth right againſt <hi>Blackwall,</hi> from whence runneth off a Shoal which is dry at low-water
+<note place="margin">A Shoal.</note> This Reach lyeth North by Weſt and South by Eaſt, and is noted in the Draught with the letter <hi>f.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Nel-Hope,</hi> (alias) <hi>Bugby's-Hole.</hi>
+                  </head>
+                  <p>This Reach leadeth down from <hi>Layneſs</hi> to <hi>Hookneſs,</hi> and lyeth N. W. and S. E. It is ſomewhat ſhoal off from <hi>Hookneſs,</hi> wherein is not above two foot at low-water.
+<pb n="2" facs="tcp:151324:3"/>This Reach is noted in the Draught with the letter <hi>g.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Woolwich-Reach.</head>
+                  <p>This Reach lyeth down from <hi>Bugby's-Hole</hi> to the lower end of <hi>Woolwich</hi> Town, Eaſt by North, and Weſt by South: On the North ſide is <hi>Ham-Creek,</hi> a little to the ſouthward of which lyeth a ſhoal, called <hi>Woolwich-ſhelf,</hi>
+                     <note place="margin">Woolwich ſhelf.</note> whereon is not above two foot at low-water; it lyeth one third of the Reach over from the <hi>Eſſex</hi>-ſhore: In this Reach there is three fathom and a half water, but below the Town deeper. This Reach is noted in the Draught with the letter <hi>h.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Gallions-Reach.</head>
+                  <p>This Reach lyeth from the lower end of <hi>Woolwich</hi>-Town, almoſt to <hi>Barking-Creek,</hi> and lyeth N. N. E. and S. S. W. On the Weſt ſide thereof ſtandeth a little Houſe and ſome Trees, called <hi>Gallions Houſe and Trees;</hi> right againſt them is good riding for Ships; and at the lower end of this Reach is a Point called <hi>Maggot-Neſs.</hi> This Reach is noted in the Draught with the letter <hi>i.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Barking-ſhelf-Reach.</head>
+                  <p>This Reach lyeth down from <hi>Maggot-Neſs</hi> to <hi>Croſs-Neſs;</hi> a little above <hi>Croſs-Neſs,</hi> on the Kentiſh-ſhore, ſtood one of the half-way Trees,
+<note place="margin">Half-way-Tree.</note> and the other oppo<g ref="char:EOLhyphen"/>ſite to it on the Eſſex-ſhore; they bear that name, be<g ref="char:EOLhyphen"/>cauſe it is reputed to be half-way between <hi>London</hi> and <hi>Graveſend.</hi> This Reach lyeth ſomewhat crooked, go<g ref="char:EOLhyphen"/>ing in with a Bight on the Kentiſh-ſide. In this Reach is the greateſt ſhoal in the River,
+<note place="margin">Barking-ſhelf.</note> called <hi>Barking-ſhelf,</hi> from whence this Reach taketh its name, which lies in the middle of the River: Between the Shelf and <hi>Bar<g ref="char:EOLhyphen"/>king-Creek,</hi> there is not above ſix foot at low-water, but the beſt of the Channel is between the Shelf and the Kentiſh-ſhore; it is narrow, and there is but two fathom, and two fathom and a half at low-water. This Reach is noted in the Draught with the letter <hi>k.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Half-way-Tree Reach.</head>
+                  <p>This Reach extendeth it ſelf down from <hi>Croſs-Neſs</hi> to <hi>Gillion-Tree,</hi>
+                     <note place="margin">Gillion-Tree.</note> which ſtands on a Point of Land on the Kentiſh-ſhore, almoſt againſt <hi>Raynham-Ferry;</hi> it lyeth in two parts, the weſtermoſt lyeth E. S. E. and W. N. W. and the other part Eaſt by South and Weſt by North; in this Reach is four fathom, and four fa<g ref="char:EOLhyphen"/>thom and a half at low-water. In moſt parts of this Reach, off the Point where <hi>Gillion</hi>-Tree ſtands, lyeth a ſhoal, but not very dangerous, there being about eight foot at low-water. On the <hi>Eſſex</hi>-ſide, lyeth out a Jetty to ſecure the Bank from the ſtrength of the Tyde, (which ſetteth very much on that ſhore) it is called <hi>Da<g ref="char:EOLhyphen"/>genham-Jetty;</hi>
+                     <note place="margin">Dege<g ref="char:EOLhyphen"/>ham-jetty. A ſhelf.</note> between which, and <hi>Croſs-Neſs</hi> on the Kentiſh-ſhore, lyeth a ſmall Shelf, which is ſometimes dry at low-water. This Reach is expreſt in the Draught with the letter <hi>l.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Erith-Reach.</head>
+                  <p>This Reach lyeth N. N. W. and S. S. E. and ex<g ref="char:EOLhyphen"/>tendeth it ſelf from <hi>Reynham,</hi> down to a Point on the Eſſex-ſhore,
+<note place="margin">Gold-harbour.</note> called <hi>Cold-harbour.</hi> In moſt part of this Reach there is about four fathom water; but right a<g ref="char:EOLhyphen"/>gainſt the Church is the beſt place for great Ships to come to an anchor, becauſe it is ſomewhat deeper. This Reach is noted in the Draught with the letter <hi>m.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Rands,</head>
+                  <p>Is a ſhort Reach, extending it ſelf from <hi>Cold-barbour</hi> to <hi>Crafford-neſs,</hi> which lyeth on the Weſt ſide of <hi>Dart-ford-Creek,</hi> bearing Eaſt by North and Weſt by South: Right againſt which Creek, lyeth a ſhoal in the middle of the River, called <hi>Rand-hill,</hi> but not dangerous.
+<note place="margin">A ſhoal called Rand-hill.</note> This Reach is noted in the Draught with the letter <hi>n.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Long-Reach.</head>
+                  <p>This Reach taketh its Name from its Nature, being the longeſt Reach in the River, and lyeth E. S. E. and W. N. W. and extendeth it ſelf from <hi>Crafford-neſs</hi> to <hi>Greenhith</hi>-Town. On the North ſide, between <hi>Purſleet</hi> and <hi>Sleepers-hole,</hi> lyeth a ſhoal, but not dangerous;
+<note place="margin">A ſhoal.</note> in the upper part of this Reach there is five fathom and a half at low-water, and all down the North Reach there is ſeven fathom water. This Reach is noted in the Draught with the letter <hi>o.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>St. <hi>Clements-Reach.</hi>
+                  </head>
+                  <p>This Reach lyeth in two parts, firſt from <hi>Greenhith</hi> to St. <hi>Clements,</hi> and lyeth N. N. E. and S. S. W. and from St. <hi>Clements</hi> to <hi>Grayes</hi> it lyeth Eaſt and Weſt. This Reach is the moſt dangerous in the whole River, being very ſubject to foul weather, by reaſon of its ſcituati<g ref="char:EOLhyphen"/>on, eſpecially with ſome Winds, as a South-weſt and North-eaſt wind, which doth make very bad weather, ſo that here are more Boats caſt away, than in all the Reaches in the whole River; and by reaſon of the bad weather that annoys this Reach,
+<note place="margin">Fidlers-Reach.</note> it is called <hi>Fidlers-Reach,</hi> becauſe any little wind will raiſe the Waves, and make the Boats dance: At the lower end of this Reach, a little above <hi>Grayes-Town,</hi>
+                     <note place="margin">Black-ſhelf.</note> lyeth a ſhoal called <hi>Black-ſhelf,</hi> whereon Ships ſometimes come aground, taking no harm, but ſit upright. This Reach is noted in the Draught with the letter <hi>p.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>North-fleet-Hope.</head>
+                  <p>This Reach leadeth from <hi>Grayes</hi>-Town down to <hi>North-fleet,</hi> which is on the Kentiſh-ſhore, and lyeth North-weſt by North, and South-eaſt by South; there is about eight fathom water all along this Reach, and is bold enough, having no danger on any ſide. This Reach is noted in the Draught with the letter <hi>q.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Graveſend-Reach.</head>
+                  <p>This Reach lyeth Eaſt and Weſt, and extendeth it ſelf from <hi>North-fleet</hi> below the Town of <hi>Graveſend,</hi> to a place called the <hi>Piles;</hi>
+                     <note place="margin">Piles.</note> there is good riding on any part of this Reach: The water riſeth here three fathom and a half; above the Town you will have eight, and below ſix fathom. This Reach is noted in the Draught with the letter <hi>r.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Lilbury-Hope.</head>
+                  <p>This Reach lyeth North-eaſt by North, and South-Weſt by South, and extendeth it ſelf from the <hi>Piles</hi> aforeſaid, down to <hi>Mucking-Creek,</hi> which is on the North ſhore; and <hi>Hope-neſs,</hi> alias, <hi>Sands-head-Point,</hi> on the South ſide: Here is in moſt parts of this Reach, five, ſix, and ſeven fathom at low-water: Ships may conveniently ride in any part of it. This Reach is no<g ref="char:EOLhyphen"/>ted in the Draught with the letter <hi>ſ.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:151324:3"/>
+               <head>A Deſcription of the Sands, Shoals, Buoys, Beacons, and Sea-Marks on the Coaſt of <hi>England,</hi> from <hi>Thames</hi>-Mouth to <hi>Flambrough-head.</hi>
+               </head>
+               <head type="sub">Shewing their Bearings and Diſtances from the moſt Eminent Places on the Land; with the Depths of Water on them, as well as in the Channels between them.</head>
+               <div type="section">
+                  <head>Blyth-Sand.</head>
+                  <p>THis Sand begins at the lower end of the <hi>Hope,</hi> from <hi>Hope-neſs,</hi> alias, <hi>Sands-head-point,</hi> on the South ſide, and runneth down below <hi>Hull-haven;</hi> it lyeth E. N. E. the lower down the broader: there is ſome diſtance between the eaſtermoſt end and the ſhore, but the weſtermoſt end joyneth to the Land: Thoſe that turn, either going up or down, muſt come no nearer it than five fathom at low-water, and ſeven fathom at high-water. On the North ſide you will have five and ſix fathom at low-water. This Sand is noted in the Draught with the letter <hi>a.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Hole-Haven-Scarrs.</head>
+                  <p>
+                     <hi>Hole-Haven-Scarrs</hi> is a dangerous ſhoal, being very hard ground, and joyning to the ſhore a little below <hi>Hole-Haven,</hi> ſtretching off from the Land about two Cables length, being very ſteep, and having ten fathom cloſe by it. This, and the lower end of <hi>Blyth-Sand,</hi> makes the Channel more narrow than either above or below, and cauſeth the Tyde to run very ſtrong. In Spring-Tydes it is dry at low-water. This ſhoal is marked in the Draught with the letter <hi>b.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Chapman.</head>
+                  <p>The <hi>Chapman</hi> is a ſhoal that lyeth about two miles be<g ref="char:EOLhyphen"/>low the <hi>Scarrs</hi> on the North ſide:
+<note place="margin">Chapman head.</note> The Weſt end there<g ref="char:EOLhyphen"/>of joyns to the ſhore, and is called the <hi>Chapman-head;</hi> it lyeth down neareſt from the <hi>Scarrs</hi> Eaſt, is near half a mile in length, and ſteep too, having nine fathom cloſe to it; a good part of the Eaſt end thereof appeareth dry at low-water, being hard, ſtrong, and uneven ground, having ſix fathom water cloſe aboard of it. The thwart mark for the Eaſt end of the <hi>Chapman,</hi> is to bring <hi>Hadley</hi> Church and <hi>Hadley</hi> Caſtle both in one. This Sand is noted in the Draught with the letter <hi>c.</hi>
+                  </p>
+                  <p>From hence runneth a ſhoal which reacheth below <hi>Canvey</hi>-Iſland,
+<note place="margin">High-Sand.</note> and is called <hi>High-ſand.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Middle-Ground.</head>
+                  <p>This <hi>Middle-Ground</hi> is a ſhoal that lyeth againſt <hi>Lee,</hi> in the middle of the Channel, and at low Tyde there is no more than 11, 12, or 13 foot water, and on each ſide about 4, or 4 fathom and a half. The South ſide is the deepeſt, it is about two miles in length, and lyeth down Eaſt as the River doth.
+<note place="margin">Marks of the middle Ground.</note> The Mark for this Sand, is to bring <hi>Lee</hi> Church on the Eaſt Point of the Marſh, (which is the Eaſt end of <hi>Canvey</hi>-Iſland) then are you thwart of the ſhoaleſt part of it, where you have but ten foot at low-water: To avoid it, you may go on ei<g ref="char:EOLhyphen"/>ther ſide thereof. This Shelf is noted in the Draught with the letter <hi>d.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Nower and Buoy.</head>
+                  <p>The <hi>Nower</hi> is a Sand that lyeth from part of the Iſle of <hi>Grean,</hi> and runs down neareſt Eaſt two little miles; on the Eaſt Point thereof lyeth a Buoy in twelve foot at low-water: this Sand is broader in ſome places than in other, by reaſon of ſome Swatches that are in it,
+<note place="margin">Marks of the Bouy.</note> and dries every low-water: <hi>Minſter</hi>-Church, in the Iſle of <hi>Sheppy,</hi> bears South by Eaſt from the Buoy of the <hi>Nower,</hi> and <hi>Shyrneſs</hi> Weſt, half ſoutherly, about three miles: From the Buoy of the <hi>Nower</hi> to the Buoy of the <hi>Oaze-edge,</hi> the courſe is Eaſt, one quarter ſoutherly, near five miles. This Sand and Buoy is marked in the Draught with the letter <hi>e.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Cant.</head>
+                  <p>The <hi>Cant</hi> is a great Flat that lies on the North ſide of <hi>Sheppy,</hi> and joyns to the ſhore, and begins a little to the eaſtward of <hi>Shyreneſs,</hi> and ſo runs to the Eaſt end of the Iſland, where the Weſt end of the <hi>Red-ſand</hi> and <hi>Spaniard</hi> joyns to it; this ſhoal lyeth off from <hi>Sheppy</hi> in ſome places a mile, in others two; the more to the Eaſt the farther off, by means of its joyning with the <hi>Red-ſand.</hi> There is no mark for this Sand, (only the depth of water being four, five, or ſix fathom) ſo near the Ship may go (the time of Tyde conſidered): But from the lower part of the ſaid <hi>Cant,</hi> begins deep water cloſe to it down to the <hi>Spile,</hi> as 11, 12,
+<note place="margin">Spile.</note> or 13 fa<g ref="char:EOLhyphen"/>thom, and is called <hi>Bradgate-hole.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Shooberry-Neſs.</head>
+                  <p>
+                     <hi>Shooberry-Neſs</hi> is part of a great Flat that beginneth below <hi>Lee-Town,</hi> and runneth down the River norther<g ref="char:EOLhyphen"/>ly to the North-eaſt of <hi>Whitaker.</hi> This Neſs lyeth right off a mile from the ſhore, and falleth dry at low-water, is ſteep too, having ten fathom cloſe to it. To avoid this, come no nearer it than eight fathom.
+<note place="margin">Thwart Marks of Shooberry Neſs.</note> The thwart Marks of it, Is to bring two high Trees a little open to the Weſt of <hi>Shooberry-ſteeple,</hi> which is a ſpire Steeple. To go clear of <hi>Shooberry-flat,</hi>
+                     <note place="margin">Longſt Marks.</note> keep the high Land of <hi>Lee</hi> open of the Land on the North-eaſt of it, and that will go in the beſt of the Channel.</p>
+               </div>
+               <div type="section">
+                  <head>Black-Tayl.</head>
+                  <p>This is a part of the foreſaid great Flat, and lyeth below <hi>Shooberry-neſs,</hi> E.N.E. about four miles, being ſteep too, and having ſix, ſeven, and eight fathom above and below it; but you muſt come no nearer it than 8 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The Warp.</head>
+                  <p>The <hi>Warp</hi> is a ſhoal that lyeth in the Fair-way, com<g ref="char:EOLhyphen"/>ing out of the <hi>Swin</hi> up the River, beginning near to the Buoy of <hi>Oaze-edge,</hi> and tayleth up as high as the <hi>Mid<g ref="char:EOLhyphen"/>dle-ground</hi> of <hi>Lee;</hi> upon it there is but four fathom at low-water. On the North ſide there is eight and ten fathom, and on the South ſide ten and eleven fathom. This Sand is noted in the Draught with the letter <hi>f.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Shooe and Beacon.</head>
+                  <p>The <hi>Shooe</hi> is alſo a part of the forementioned great Flat, being very ſteep too: The courſe from the <hi>Black-tayl</hi> to the <hi>Shooe</hi> and <hi>Beacon,</hi> is North-eaſt, half eaſter<g ref="char:EOLhyphen"/>ly, about four or five miles. You muſt not come nearer the Beacon then nine or ten fathom; and you may ſtand over towards the <hi>Mouſe</hi> in ten fathom, and ſo nearer.
+<pb n="4" facs="tcp:151324:4"/>From this Beacon to the Buoy of the <hi>Oaze-edge,</hi> the courſe is South-weſt by South, diſtant about four miles. Between this Beacon and the <hi>Whitaker,</hi> you may come in ſix fathom on the North-ſide, and on the South-ſide, near the <hi>Mouſe,</hi> in ten fathom. In the Fair-way is ſe<g ref="char:EOLhyphen"/>ven, eight, or nine fathom. The <hi>Shooe-beacon</hi> and Buoy of the <hi>Red-ſand,</hi> do bear North and South, near<g ref="char:EOLhyphen"/>eſt one of the other, betwixt five and ſix miles.</p>
+               </div>
+               <div type="section">
+                  <head>Middle-Ground and Buoy.</head>
+                  <p>This Sand lyeth between <hi>Buxey-ſand</hi> and the <hi>Eaſt-Barrows,</hi> being about five miles in length, and lyeth near North-eaſt and South-weſt; upon the South-weſt end is placed a Buoy, which bears from the <hi>Shooe-beacon</hi> North-eaſt by North, two degrees eaſterly, about five miles; you may ſayl from the <hi>Shooe</hi> (being below it) by your Lead, towards the <hi>Whitaker,</hi> in 6, 6 fathom and a half, and 7 and a half, and on the <hi>Barrow</hi> ſide in 8 fa<g ref="char:EOLhyphen"/>thom; and in the Fair-way is 9 or 10 fathom; the Buoy, at low-water, lyeth in 18 foot. And on this Sand, at low-water, is 4, 5, and 6 foot water.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Middle-Middle-Ground.</hi>
+                  </head>
+                  <p>This is a ſmall Shoal that lyeth W.N.W. half a mile from the Buoy of the <hi>Middle-ground,</hi> and extends it ſelf a little below the <hi>Whitaker-beacon;</hi> on this Sand there is no more then 14 foot at low-water. To avoid it, you muſt keep within two Cables length of the Buoy of the <hi>Middle-ground.</hi> At the North end of this ſhoal there is 5 or 6 fathom water, This is noted in the Draught with the letter <hi>g.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Whitaker and Beacon.</hi>
+                  </head>
+                  <p>The <hi>Whitaker</hi> is alſo a part of the forementioned great Flat, and is the North-eaſt Point thereof, on which ſtandeth a Beacon, from whence runs off a tayl of the foreſaid Flat, a little to the northward of the Beacon: To avoid which, come no nearer then ſeven fathom; betwixt this and the S. W. end of the <hi>Buxey,</hi> goeth in a ſmall Channel up towards <hi>Foul-neſs,</hi> called <hi>North-fletch,</hi> uſeful only for ſmall Veſſels. From <hi>Whita<g ref="char:EOLhyphen"/>ker</hi> to the Buoy of the <hi>Buxey,</hi> you may ſayl in 6 or 7 fathom, and towards the <hi>Middle-Ground</hi> in 8 fathom; in the Fair-way there is 7 fathom, and on this tayl there is but two fathom at low-water.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Burey and Buoy.</hi>
+                  </head>
+                  <p>The <hi>Buxey</hi> is a Sand that lyeth on the North ſide of <hi>Whitaker,</hi> and ſtretcheth it ſelf South-weſt and North-eaſt, falling dry at low-water. At the North end thereof lyeth a Buoy; betwixt this Buoy and the South-weſt end of the <hi>Gunfleet,</hi> goeth in a Channel called the <hi>Spits,</hi> where there is but ſix and ſeven foot at low-water, be<g ref="char:EOLhyphen"/>ing a quarter of a mile broad.
+<note place="margin">Marks for the Spits.</note> The Mark for it, is a flat Steeple, called great <hi>Holland;</hi> bring it into a ſmall Swamp or Gaul in a red Cliff, then doth the Church bear North, half weſterly; then ſteer in North-weſt till your water deepen; then bear down toward the <hi>Naze,</hi> according to your Wind; the neerer the <hi>Gunfleet,</hi> the deeper the Water is; as you ſayl, you ſhall have 5, 6, 7, and 8 fathom water.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Gunfleet and Buoy.</hi>
+                  </head>
+                  <p>The <hi>Gunfleet</hi> is a long Sand, by judgment eight or nine miles, and hath in it ſome ſmall Swatches; the South-weſt end of it, and the North-eaſt end is flat, and good ſhoaling, but on either ſide ſteep, in ſome parts of it more than other: You may ſayl alongſt it on the South ſide; from the South-weſt end downwards in ſeven fathom, till you come within a large mile of the Buoy, come no nearer then nine fathom: Here lyeth a Hook E.S.E. off from the Sand a long Cables length;
+<note place="margin">A Hook.</note> on the South-eaſt ſide of which goeth a ſmall Swatch quite through the Sand to the North-weſt, which cau<g ref="char:EOLhyphen"/>ſeth the Tyde to ſet in there; ſo that when Veſſels paſs near it, (if not careful in time) it draweth them into the Swatch, or upon the Hook; to avoid which, come no nearer this part of the Sand then ten fathom. From this Hook, to the North-eaſt end, this Sand is very ſteep too, but at the end flat as aforeſaid: This Sand lyeth North-eaſt and South-weſt, a good part of it dryeth, in ſome parts half a mile, and other parts one third of a mile broad; and if you ſtand from this Sand to the <hi>Heaps,</hi> come no nearer them than ten fathom; in the middle of the Channel is eight fathom. The Buoy of the <hi>Gunfleet</hi> lyeth from the <hi>Naze</hi> South-eaſt by Eaſt four miles.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Heaps.</hi>
+                  </head>
+                  <p>The <hi>Heaps</hi> are ſeveral Banks of Sand, as it were,
+<note place="margin">By ſome called the <hi>Hurdles.</hi>
+                     </note> joyning to the North-eaſt end of the <hi>Middle-Ground,</hi> E.N.E. and W.S.W. on which, at low-water, is but ſeven foot, and very ſteep too, and runs down about three miles; the North-eaſt end thereof doth bear from the <hi>Naze</hi> South by Eaſt, half eaſterly: The Channel betwixt them and the <hi>Gunfleet,</hi> is four miles broad; in turning up or down, come no nearer them then ten fa<g ref="char:EOLhyphen"/>thom. Some of theſe Heaps do dry on Spring-Tydes. Theſe are noted in the Draught with the letter <hi>b.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Andrews.</hi>
+                  </head>
+                  <p>The <hi>Andrews</hi> is a narrow Point of ſmall ſtones that lie out from <hi>Landguard</hi> Point near half a mile, and dryeth at low-water: On the South-weſt ſide of this Spit, lyeth ſeveral heaps of ſmall ſtones that alſo dry at Spring-tydes; but when you have the two Light-houſes in one, (ſayling ſo) it directeth you free of them; and as you ſayl out of <hi>Harwich</hi> to the northwards, when you have brought <hi>Bawdſey</hi> Steeple open of the Land to the South of <hi>Bawdſey,</hi> then are you clear of the <hi>Andrews,</hi> and may ſayl towards <hi>Oazely-Bay.</hi>
+                     <note place="margin">Oazeley-Bay.</note>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Altar.</hi>
+                  </head>
+                  <p>The <hi>Altar</hi> is a ſmall Ridge that lyeth N. N. W. and S.S.E. right againſt <hi>Landguard-fort;</hi> the Channel here, at low-water, is not more than a Cables length broad; on the Fort ſide is five fathom, on the <hi>Altar</hi> is ſix foot at low-water; a Cables length within the Fort is a Croſs Ridge, on which at low water,
+<note place="margin">Croſs-Ridge.</note> is but fifteen foot, it lyeth quite croſs the Channel; then you muſt ſayl along the Beach on the Fort-ſide, to avoid the great Flat, called the <hi>Guard,</hi>
+                     <note place="margin">Guard.</note> that lyeth off from <hi>Harwich</hi>-Town, till you bring open <hi>Manning-Tree,</hi> and a high Tree that ſtands to the ſouthwards of the Hill Point (next above <hi>Harwich-Town</hi>) in <hi>Manning-Tree-Water;</hi> then may you anchor where you pleaſe, in five, ſix, or ſeven fathom, taking care of a long ſpit of Sand that runs out from <hi>Shotley-Point,</hi> croſs to <hi>Ipſwich-Water.</hi>
+                     <note place="margin">Shotley-Point.</note> This ſhoal is noted in the Draught with the letter <hi>i.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Ridge.</hi>
+                  </head>
+                  <p>The <hi>Ridge</hi> is a ſmall Bank of great ſtones, and lyeth on the South ſide of you, as you ſayl in by the <hi>Andrews,</hi> on which is four or five foot at low-water. The Mark to avoid it, is to bring the two Light-houſes at <hi>Harwich</hi> in one; and if you ſhut <hi>Harwich</hi>-Mill in the North end of the Cliff, you run right on it; if open, then you
+<pb n="5" facs="tcp:151324:4"/>may go clear; it lies North-eaſt and South-weſt, and is but narrrow, and half a mile in length. Noted in the Draught with the letter <hi>k.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Rowling-Grounds.</head>
+                  <p>The <hi>Rowling-grounds</hi> is the Road where commonly Ships ride, being without the <hi>Altar,</hi> and within the <hi>Ridge,</hi>
+                     <note place="margin">Marks of the Rowl<g ref="char:EOLhyphen"/>ing-grounds.</note> and thwart the <hi>Andrews,</hi> where is at low-water 4 or 5 fathom. The Marks for it are, to bring the Wind-mill on the North end of <hi>Harwich</hi>-Cliff, and the Beacon on <hi>Bawdſey</hi>-Cliff, over the North-eaſt Point of the Beach that runs from <hi>Landguard</hi>-Fort to the north<g ref="char:EOLhyphen"/>wards.</p>
+               </div>
+               <div type="section">
+                  <head>The Platters.</head>
+                  <p>The <hi>Platters</hi> are ſeveral Heaps and Banks of ſmall ſtones that lie between <hi>Landguard</hi>-Fort and <hi>Woodbridg</hi>-Haven,
+<note place="margin">Wood-bridge-Haven.</note> they lie cloſe to the ſhore: To avoid them, come no nearer than four fathom. To the northwards, near <hi>Woodbridge</hi>-Haven,
+<note place="margin">A ſhoal.</note> lyeth a ſmall Shoal, where is but ten foot at low-water: To avoid this, come no nearer than five fathom off the ſhore thereabout. This Shoal is noted in the Draught with the letter <hi>l.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Weſt-Rocks.</head>
+                  <p>The <hi>Weſt-Rocks</hi> are a great many Heaps and Banks joyned together, having ſeveral ſmall Swatches amongſt them, the Ground being of ſeveral qualities, partly Sand, and partly Stones, both great and ſmall; in ſe<g ref="char:EOLhyphen"/>veral places it dries, and in moſt other parts of it but 2, 3, 4, 5 foot at low-water; the ground uneven, and is of great extent, N. E. and S. W. about 3 miles, and lyeth N. W. and S. E. near 5 miles. There are ſeve<g ref="char:EOLhyphen"/>ral ſhoals that lie within it on the N. W. ſide, that are accounted parts of it, and the <hi>Cork</hi>-Sand that lyeth on the North ſide of it, there being only a ſmall Swatch of 7 foot water that parts them; the S. W. part of this Shoal, lyeth a mile and half from the Buoy of the <hi>Gun<g ref="char:EOLhyphen"/>fleet,</hi> North by Eaſt, and N. N. E. you muſt come no nearer to it than 7 or 8 fathom on the South ſide: when you are to the ſouthward,
+<note place="margin">Marks of the Weſt-Rocks.</note> and againſt the Body of it, then <hi>Harwich</hi>-Church will be a little nearer to <hi>Land<g ref="char:EOLhyphen"/>guard</hi>-Fort than to <hi>Harwich</hi>-Cliff.</p>
+               </div>
+               <div type="section">
+                  <head>The Cork.</head>
+                  <p>The <hi>Cork</hi> is a Sand that lyeth on the North ſide of the <hi>Weſt-Rocks,</hi> and doth almoſt joyn to them, there being only a ſmall Swatch of ſeven foot water betwixt them; it dries at low-water, and lyeth near three miles from <hi>Landguard</hi>-Fort, and S.E. by Eaſt from the out<g ref="char:EOLhyphen"/>part of the <hi>Andrews.</hi> The Marks to go clear of it, in and out, is to bring <hi>Harwich</hi>-Church on a black Brew<g ref="char:EOLhyphen"/>houſe, that ſtands a little within the Land; as is before expreſt in the going out of <hi>Harwich.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Cutler.</head>
+                  <p>The <hi>Cutler</hi> is a ſhoal that lyeth off from the N. E. of <hi>Bawdſey</hi>-Cliff a ſmall mile, on which is but ſix foot at low-water: This Sand lies badly, if men be not care<g ref="char:EOLhyphen"/>ful of it, becauſe the Tyde of Flood or Ebb ſets ſo right upon it, that if a Ship cometh aground, it is bad get<g ref="char:EOLhyphen"/>ting off, the Tyde binding ſo directly upon it; you may come in four fathom of it; in the Fair-way is 5 and 6 fathom: it is almoſt round, and very hard ground. The Longſt mark to keep clear of it,
+<note place="margin">Longſt a mark.</note> is to bring <hi>Har<g ref="char:EOLhyphen"/>wich</hi>-Steeple a Sayles breadth open of <hi>Felſteed</hi>-Cliff. The Thwart Mark for it, <note place="margin">Thwart mark.</note> is <hi>Bawdſey</hi>-ſteeple on the North end of a thick Wood by the Water ſide; then the Stee<g ref="char:EOLhyphen"/>ple bears off you North-weſt, five degrees Weſt. This Sand is noted in the Draught with the letter <hi>n.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Middle-Ground.</head>
+                  <p>The <hi>Middle-ground</hi> is a Bank that lyeth betwixt <hi>Or<g ref="char:EOLhyphen"/>ford-haven</hi> and <hi>Orford-neſs,</hi> half a mile from the ſhoar; on which at low-water is eighteen foot, and between it and the ſhoar is five and ſix fathom, and lies one third part of the way off to the <hi>Whiting</hi>-Sand; it is about half a mile in length, and lyeth along as the ſhore lyeth: between this and the <hi>Whiting</hi> is 6 and 7 fathom. This is noted in the Draught with the letter <hi>o.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Onion.</head>
+                  <p>The <hi>Onion</hi> is a round Knowl that lies a third part of a mile to the ſouthwards of <hi>Orford-neſs,</hi> juſt within the Stream of it; and there is on it, at low-water, 14 and 15 foot. Marks there are none, but to obſerve the Tydes. This Shoal is noted in the Draught with the letter <hi>p.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Sledway.</head>
+                  <p>The <hi>Sledway</hi> is a Channel through which all Ships paſs that come within the Sands at <hi>Orford-neſs,</hi> and go up or down the <hi>Swin.</hi> The Marks for it are, to bring <hi>Bawdſey</hi>-ſteeple open a little to the northward of <hi>Bawd<g ref="char:EOLhyphen"/>ſey</hi>-cliff, in two or three Trees, and then the Church will bear from you N. N. W. and ſo you muſt keep thoſe Marks together, and ſayl out S. S. E. in the very beſt of the Channel, which directs you clear of the South-ends of the Sands of <hi>Orford</hi>-Town, and of the <hi>Cork</hi> and <hi>Weſt-Rocks</hi> to the northward of them; and if you bring <hi>Bawdſey</hi>-ſteeple on the North end of <hi>Bawdſey</hi>-Cliff, then it will bear from you North by Weſt, and brings you very near the <hi>Weſt-Rocks;</hi> and if you bring <hi>Bawdſey</hi>-ſteeple N. W. from you, it will bring you near the South end of the <hi>Shipwaſh:</hi> When you ſayl out of the <hi>Sledway</hi> from <hi>Bawdſey,</hi> (it bearing N.N.W. from you) the depths are 4, 5, 6, 7, 8, 9, fa<g ref="char:EOLhyphen"/>thoms; then ſteer S. W. by Weſt, and W.S.W. ac<g ref="char:EOLhyphen"/>cording to the Wind, and that will bring you near the Buoy of the <hi>Gunfleet,</hi> to direct you up the <hi>Swin;</hi> and when you come to 10 and 11, then hale South up to<g ref="char:EOLhyphen"/>wards the Buoy of the <hi>Gunfleet.</hi> This <hi>Sledway</hi> is very uneven Ground, you ſhall have 7, 8, and 9 fathom, and the next throw 4 and 5 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The Whiting.</head>
+                  <p>The <hi>Whiting</hi> is a Sand that lyeth againſt <hi>Orford</hi>-Town, and lyeth N.E. by North, and S. W. by South, on which is but five foot at low-water, and is in length 3 miles and a half, and in breadth 3 Cables length; the North end of it beareth from the Light-houſe on <hi>Or<g ref="char:EOLhyphen"/>ford-neſs</hi> S.S.W. 4 miles and a half, and <hi>Orford</hi>-Church N. N. W. a large mile from the ſhore; the South end is the broadeſt, when you are at the South end in four fathom. The Marks are <hi>Alterton</hi>-ſteeple, Weſt,
+<note place="margin">Marks of the Whi<g ref="char:EOLhyphen"/>ting.</note> eight degrees northerly; and <hi>Bawdſey</hi>-ſteeple Weſt by South, three degrees ſoutherly: This end of the Sand lies from the ſhore two miles; and about half a mile South-eaſt from this end of the Sand, there is but five fathom at high-water: Not knowing whether this be that which ſome Colliers report, that lyeth about the South end of the <hi>Whiting,</hi> which they call the <hi>Kettle-bottom,</hi> being a round Knowl, on which ſome of them ſaid they have ſeen a Ship aground, but could not tell us where it was, neither could we find any other. The <hi>Whiting</hi> is no<g ref="char:EOLhyphen"/>ted in the Draught with the letter <hi>q.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:151324:5"/>
+                  <head>Bawdſey-Sand.</head>
+                  <p>This is a Sand that lyeth without the <hi>Whiting,</hi> ly<g ref="char:EOLhyphen"/>ing North-eaſt and South-weſt, in length four miles and a half, and in breadth three Cables length, and a great part of it dryeth at low-tydes. The Marks for the South end of it, is <hi>Bawdſey</hi>-ſteeple, North-weſt, ſix degrees: then the Church ſtands open to the South of a little tuft of Trees. This end lyeth from the ſhore four miles and a half, and is very ſteep, having eight and nine fathom cloſe to it, and a very ſtrong Tyde runs by it.
+<note place="margin">Marks for Bawdſey-Sand.</note> The Marks for the North end, is <hi>Orford</hi> Caſtle, North by Weſt, ſix degrees weſterly; the Light houſes North, ſix degres eaſterly; five miles off this end is more flat and broad than the South-end; this end, and the South-end of the <hi>Whi<g ref="char:EOLhyphen"/>ting,</hi> doth bear North-weſt by Weſt, and South-eaſt by Eaſt, two miles aſunder; the depths betwixt them is 6, 7, 8, 9, 10 fathom the moſt, and on the Eaſt ſide, 8, 9, 10 fathom, and 7 and 8 at the Weſt; and from <hi>Alterton</hi>-Church it lyeth Weſt by North, half nor<g ref="char:EOLhyphen"/>therly; and from <hi>Bawdſey</hi>-Church, Weſt, half ſou<g ref="char:EOLhyphen"/>therly; then will <hi>Bawdſey</hi>-Church be on the North end of a ſhort Wood.</p>
+               </div>
+               <div type="section">
+                  <head>The Shipwaſh.</head>
+                  <p>The <hi>Shipwaſh</hi> is a Sand that lyeth without <hi>Bawdſey</hi>-Sand, and is properly ſo called, it having, out of doubt waſhed many a Ship quite away; It is a very dangerous Sand by reaſon of its length, and the ſtrength of Tyde that runs by it, and the great part of it that dries at low-water, and the devouring Nature thereof, ſwallowing up any Ship that is loſt on it, quite out of ſight in few dayes: it lyeth North by Eaſt, and South by Weſt, and and is in length nine miles, and in breadth a quarter of a mile; but at the South end it is half a mile broad, by reaſon of a Hook that runs off the North-weſt ſide, as in the Draught is deſcribed.
+<note place="margin">
+                        <p>Marks for the North end of this Sand.</p>
+                        <p>Marks for the South<g ref="char:EOLhyphen"/>end.</p>
+                     </note> The Marks for the North end, are <hi>Orford</hi>-Church, North-weſt, ſix miles off, and five miles from the Light-houſes: Or <hi>Orford-neſs</hi> South-Eaſt by South. The Marks for the South end, are <hi>Bawdſey</hi>-ſteeple North-weſt, five degrees Weſt, eight miles and a half off from the ſhore. The South-eaſt ſide of this Sand is very ſteep too, having ten fathom cloſe to it; but the North-weſt ſide is not ſo ſteep, for you may ſayl along that ſide in ſeven and eight fathom, taking care of the Hook; the South end is more flat than the North end. The Depths between this and <hi>Bawdſey</hi>-Sand, are 8, 9, 10, 11, 12 fathom; two miles without this Sand, to the Eaſt, is fifteen and ſixteen fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Alborough-Knapes.</head>
+                  <p>
+                     <hi>Alborough-Knapes</hi> is a Sand that lyeth about five miles from <hi>Orford-neſs.</hi> The Marks to carry you clear of it, are to bring <hi>Orford.</hi> Church and Caſtle one in ano<g ref="char:EOLhyphen"/>thor: <hi>Alborough</hi>-Church, Weſt, brings you juſt upon it; there is but two fathom and a half Water upon it at low-tyde. If you come within the <hi>Knapes,</hi> you will have twelve or thirteen fathom Water; and if you go without it, you ſhall have ſixteen fathom; which are ſure Notes to know whether you are with<g ref="char:EOLhyphen"/>out or within the Sand.</p>
+               </div>
+               <div type="section">
+                  <head>Bernard.</head>
+                  <p>The <hi>Bernard</hi> is a Sand that lyeth a little to the northwards of <hi>Eaſtneſs;</hi> it lyeth in the Sea North-Eaſt one mile and a half; the South end lyeth Eaſt from <hi>Covehithe</hi>-Church, if you are bound to the north<g ref="char:EOLhyphen"/>ward; to go clear of the North-eaſt end of it, keep <hi>Southwold</hi> open of the South end of the Cliff, until you bring <hi>Leyſtaff</hi> Windmil open to the northwards of the Town of <hi>Leyſtaff.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Sea-Horſe, or Newcome.</head>
+                  <p>The <hi>Sea-Horſe</hi> is a Sand or Bank which lyeth thwart the Steeple of <hi>Covehithe,</hi> (which is a high ſharp Stee<g ref="char:EOLhyphen"/>ple) not far from the ſhore, which falleth almoſt dry at low-water, but at half-flood you may ſayl through between the Land and it in 2 fathom: upon the outer<g ref="char:EOLhyphen"/>ſide it is very ſteep, ſo that you cannot come nearer it than in nine or ten fathom. When the Steeple of <hi>Covehithe</hi> is W. N. W. from you, then you are to the ſouthward of it; and when the Steeple is South-weſt by Weſt from you, then are you to the northwards of it two leagues.</p>
+               </div>
+               <div type="section">
+                  <head>St. Matthews-Sand.</head>
+                  <p>Off from <hi>Pakesfield,</hi> almoſt three miles, lyeth St. <hi>Matthews</hi>-Sand, being in length one mile and a half, and in breadth about three Cables length; it lyeth in the Sea North and South; the South end beareth from <hi>Eaſtneſs</hi> North-eaſt by North, five miles and a half; the North end lyeth from <hi>Leyſtaff</hi> Eaſt by South, three miles and a half.</p>
+               </div>
+               <div type="section">
+                  <head>The Holms of Yarmouth.</head>
+                  <p>Off from <hi>Leyſtaff</hi> beginneth the <hi>Holms</hi> of <hi>Yarmouth,</hi> which are ſeveral Banks and Sands, having many Channels going between them, and you may ſayl through upon divers Marks, if you are acquainted: And alſo within theſe Banks, from <hi>Leyſtaff</hi> until you come paſt <hi>Winterton,</hi> (for they reach thwart of it) moſt of the Banks have particular appellations, as <hi>Corten</hi>-Sand, <hi>Leyſtaff, Knock, New-warp, Cockle, Hombsby, Hurd,</hi> the <hi>Knock, Middle-ground, Thredle-dore,</hi> St. <hi>Nicholas</hi>-Sand, <hi>Scroby,</hi> &amp;c. If you ſayl alongſt by the Land, you muſt keep the Soundings of the ſhore in 5, 6, or 7 fathom; ſome of them are ſteep too on the out<g ref="char:EOLhyphen"/>ſide, where you may have 12 and 13 fathom; but off <hi>Thredle-door,</hi> St. <hi>Nicholas</hi>-Sand, and <hi>Scroby,</hi> you have but 4, 5, and 6 fathom, three or four miles off. To go without the <hi>Holm-head,</hi> keep the <hi>Knock</hi>-Beacons one in the other: Alſo upon the Ebb, if occaſion ſerves, you may borrow into four fathom of the North end of the <hi>Newcome;</hi> or you may go off in 11 or 12 fathom as you pleaſe; coming from the northwards, you muſt go no nearer the <hi>Cockle</hi> than five or ſix fathom, but on the ſhore you may borrow in four fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Scroby.</head>
+                  <p>E. N. E. from the Town of <hi>Yarmouth,</hi> two miles from the ſhore, is a Sand called the <hi>Scroby,</hi> lying North and South in the Sea, being in length almoſt two miles; this Sand is ſteep too, having on the out-ſide ten and eleven fathom; in the middle of the Channel you will have twenty fathom between it and the <hi>New-warp;</hi> the South end of this Sand lyeth half a mile from the end of the <hi>Knowls,</hi> and the North end almoſt the ſame diſtance from the <hi>Knock.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>New-warp.</head>
+                  <p>South-eaſt by Eaſt, five leagues and a half from <hi>Winterton-neſs,</hi> lyeth a Sand called <hi>New-warp,</hi> being in length two miles and a half, and lyeth in the Sea Eaſt and Weſt; on it, at low-water, there is but two fa<g ref="char:EOLhyphen"/>thom; without it you will have ten and twelve fathom,
+<pb n="7" facs="tcp:151324:5"/>between it and the <hi>Holms</hi> five and ſix fathom, but near the <hi>Holms</hi> ten fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The Overfalls.</head>
+                  <p>Eaſt from <hi>Yarmouth,</hi> about nine miles, lyeth the South end of the <hi>Overfalls;</hi> extending it ſelf to the northwards more than five miles in length, but in breadth not conſiderable: This Bank is dangerous, be<g ref="char:EOLhyphen"/>cauſe it is very ſhoal; on the Eaſt ſide of it you will have five fathom and even ground, but being about two miles diſtant you will have 20 and 24 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Bounſes.</head>
+                  <p>The <hi>Bounſes</hi> is a Sand which lyeth North-eaſt, a lit<g ref="char:EOLhyphen"/>tle northerly from <hi>Winterton-neſs</hi> about five miles and a half, being a round Sand, whereon there is three fathom at low-water; within it you have 16 and 17 fathom, but without it 8, 12, and 16 fathom; it beareth from <hi>New-warp</hi> North by Weſt, a little Weſterly, about a mile.</p>
+               </div>
+               <div type="section">
+                  <head>Haſeborough-Sand.</head>
+                  <p>This Sand lyeth from <hi>Haſeborough</hi> North-eaſt by Eaſt, about ſix miles and a half, and lyeth in the Sea North-weſt and South-eaſt, being in length two miles and a half; the South-eaſt end lyeth from <hi>Winterton<g ref="char:EOLhyphen"/>neſs</hi> North and Weſt, a little weſterly, nine miles and a half; between it and the ſhore you have 12 and 13 fathom water, but on it 3 and 4 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The Lemon.</head>
+                  <p>The <hi>Lemon</hi> is a Sand that beareth from <hi>Haſeborough</hi> E. N. E. about 8 or 9 leagues; when you are near this Sand, you cannot ſee the Land, but <hi>Haſeborough</hi>-ſtee<g ref="char:EOLhyphen"/>ple will bear from you W.S.W. and if you ſtand that Courſe one or two glaſſes at the moſt, you will then have ſight of <hi>Haſeborough</hi>-ſteeple, and the Wood that is by it, if the weather is any thing clear. This Sand lyeth a little more northerly than the <hi>Orrey.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Orrey.</head>
+                  <p>The <hi>Orrey</hi> is a Sand that beareth near Eaſt by North, half northerly from <hi>Haſeborough</hi>-Church about ſeven or eight leagues off, and is about two miles from the <hi>Lemon;</hi> between which two Sands there is a Channel, where you will have about 17, 18, and 19 fathom wa<g ref="char:EOLhyphen"/>ter: When you are near this Sand, <hi>Haſeborough</hi>-Stee<g ref="char:EOLhyphen"/>ple will bear near Weſt by South, half ſoutherly.</p>
+               </div>
+               <div type="section">
+                  <head>Blackney-Sand.</head>
+                  <p>This Sand lyeth before <hi>Blackney,</hi> being diſtant about five miles; on the inner ſide you will have four fathom water, and without 4, 5, and 6 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Pole and Piper.</head>
+                  <p>The <hi>Pole</hi> and <hi>Piper</hi> is a Shoal that lyeth between <hi>Blackney</hi> and <hi>Wells,</hi> joyning to the ſhore. The Bea<g ref="char:EOLhyphen"/>cons that you ſayl by, lie alongſt by the <hi>Piper,</hi> at the Weſt end whereof goeth in the Channel of <hi>Wells.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Burnham Flats.</head>
+                  <p>Between <hi>Wells</hi> and <hi>Burnham,</hi> there lyeth the great Flat called <hi>Burnham-Flats,</hi> a league diſtant from the ſhore, which at low-water lyeth dry in divers places. At high-water you may well go over it. The ground on the North ſide goeth up flat and plain; On the South ſide it is very ſteep; as ſoon as you are over the ſhoaleſt, you ſhall get ſuddenly deep water, and good ſandy ground; within it is good riding for eaſterly winds.</p>
+               </div>
+               <div type="section">
+                  <head>Pearls-Hole.</head>
+                  <p>In the Latitude of 53 <hi>deg.</hi> 38 <hi>min.</hi> and to the Eaſt of the Meridian of <hi>Flamberough-head,</hi> 20 leagues diſtant from it, E.S.E. two degrees ſoutherly 22 leagues, and from the <hi>Spornhead</hi> Eaſt 19 leagues, is a great Hole cal<g ref="char:EOLhyphen"/>led the <hi>Hole</hi> of <hi>Pearls,</hi> wherein is 35 and 40 fathom, fine brown Sand, three Cables length ſayling, and then 13 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>New-Bank.</head>
+                  <p>Four leagues S. E. by Eaſt from this <hi>Hole,</hi> you will find a Bank whereon is but 5 and a half, 6 and 7 fathom for ſeveral caſts of the Lead, and on either fide 16 fa<g ref="char:EOLhyphen"/>thom. The depth of water from <hi>Pearls-hole</hi> to this Bank, is 13, 15, 14, 14, 16, 10, 16 fathom, fine brown Sand and ſmall Gravel: The Tyde ſets on this Bank N. W. and S. E. it being in the Latitude of 53 <hi>deg.</hi> 32 <hi>min.</hi> Diſtant from <hi>Haſeborough</hi>-ſteeple 12 leagues, North by Eaſt, and from <hi>Flamborough-head</hi> E. S. E. 26 leagues. The Soundings here-abouts are uncertain in depth and ground, and many Banks there are which we know not of.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Sands and Shoals in</hi> Lin-Deeps.</head>
+               <div type="section">
+                  <head>The <hi>Sonk.</hi>
+                  </head>
+                  <p>THe <hi>Sonk</hi> is a Sand which is nigh the South end of <hi>Burnham-flats,</hi> and lyeth to the northward of <hi>Chap<g ref="char:EOLhyphen"/>pel-land,</hi> and is dry at low-water; you may ſayl about it on both ſides.</p>
+               </div>
+               <div type="section">
+                  <head>Douſings.</head>
+                  <p>The <hi>Douſings</hi> is a Sand which lyeth on the North<g ref="char:EOLhyphen"/>ſide of <hi>Burnham-flats;</hi> it beareth from <hi>Wells</hi> North, half weſterly, 21 miles; the South-ſide is ſteep too, where you will have 19 fathom not far from it, and on the North ſide 9 and 10 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Inner Douſings.</head>
+                  <p>This Sand lyeth from St. <hi>Edmonds,</hi> N. W. by North 13 miles; and from <hi>Skegneſs</hi> N.N.E. 10 miles.</p>
+               </div>
+               <div type="section">
+                  <head>Dogs-head.</head>
+                  <p>
+                     <hi>Dogs-head</hi> is a ſmall Sand which lyeth on the North ſide of <hi>Wilgriph,</hi> about a mile from the ſhore.</p>
+               </div>
+               <div type="section">
+                  <head>Boſton-Knock,</head>
+                  <p>Is a Sand which lyeth off the Point of <hi>Legerneſs,</hi> which falleth dry at low-water; between it and the Land there is but two fathom; but it floweth there<g ref="char:EOLhyphen"/>about five fathom up and down. When <hi>Legerneſs</hi> bears W. N. W. from you, then go on South-weſt through between the <hi>Knock</hi> and a Shoal (which ſhoot<g ref="char:EOLhyphen"/>eth off from the Weſtward of <hi>Legerneſs</hi>) until you can get again the depth of ſix or ſeven fathom.</p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:151324:6"/>
+                  <head>Long-Sand.</head>
+                  <p>The body of this Sand lyeth againſt <hi>Legerneſs,</hi> di<g ref="char:EOLhyphen"/>ſtant about three miles; being without the Point of the Neſs, you may run through between <hi>Boſton-Knock</hi> and it; when the Trees in the Point come a hand-ſpikes length to the eaſtward of <hi>Legerneſs,</hi> then go on South<g ref="char:EOLhyphen"/>weſt, and you may run right into the Deep between <hi>Boſton-Knock</hi> and <hi>Long-ſand:</hi> between the Knock and the Point of the <hi>Long-ſand</hi> you will have five fathom; being paſt the Knock you will have eight, nine, and ten fathom deep.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A Deſcription of the Sands, within the HUMBER.</head>
+               <div type="section">
+                  <head>Roſe.</head>
+                  <p>THe <hi>Roſe</hi> is a Sand which lyeth before <hi>Salt-fleet,</hi> being a round Sand, and is two miles from the ſhore.</p>
+               </div>
+               <div type="section">
+                  <head>Riff.</head>
+                  <p>The <hi>Riff</hi> is a Shoal which joyneth to the ſhoar be<g ref="char:EOLhyphen"/>tween <hi>Sand-hall</hi> and <hi>Clay-neſs,</hi> and ſtretcheth it ſelf N. E. by Eaſt almoſt ſix miles into the Sea, the Point whereof lyeth from the <hi>Sporn</hi> S. E. by South, four miles, and from the Buoy of the <hi>Bull</hi> Faſt by South four miles.</p>
+               </div>
+               <div type="section">
+                  <head>Bull.</head>
+                  <p>The <hi>Bull</hi> is a Sand which lyeth almoſt in the middle of the Channel, on the N. E. ſide whereof lyeth a Buoy, which lyeth from the <hi>Sporn</hi> S. E. half ſoutherly, three miles and a half; the Buoy lyeth in 7 or 8 fathom water. The thwart Mark of the ſaid Buoy, is a Houſe upon the Weſt end of the Cliff of <hi>Clay-neſs,</hi> and from thence to <hi>Grimsby</hi>-Road, and anchor a little below the Beacon.</p>
+               </div>
+               <div type="section">
+                  <head>Stone-Banks.</head>
+                  <p>Theſe are ſeveral ſmall Banks which lie Eaſt from the <hi>Sporn-head.</hi> If from the Point of <hi>Kelſey</hi> you ſteer South by Eaſt, until the Point of the <hi>Sporn</hi> be Weſt, half northerly, then are you clear of them.</p>
+               </div>
+               <div type="section">
+                  <head>Borcom.</head>
+                  <p>
+                     <hi>Borcom</hi> is a Sand which lyeth off <hi>Stanningborough</hi> a<g ref="char:EOLhyphen"/>bout a mile from the ſhore; on the North-ſide hereof lyeth a Buoy, which lyeth from the <hi>Sporn</hi> Weſt by South, half ſoutherly, ſeven miles, and from the Buoy of the <hi>Bull</hi> Eaſt by South four miles and a half.</p>
+               </div>
+               <div type="section">
+                  <head>Sonk in the Humber.</head>
+                  <p>The <hi>Sonk</hi> is a Sand that lyeth on the North-ſide of the River almoſt as far down as the <hi>Sporn;</hi> if going up on the South-ſide you bring <hi>Pauls</hi>-Tower open of the Red-Cliff to the eaſtward, then you are clear, or about the Tayl of the <hi>Sonk.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Holms.</head>
+                  <p>The <hi>Holms</hi> is a Sand which lyeth about a mile from the ſhore. The Eaſt end cometh within the Tayl of the <hi>Sonk,</hi> and on the Weſt end lyeth a Buoy, which beareth South a mile and half from <hi>Pauls</hi>-Church, and from the Buoy of the <hi>Bull</hi> N. W. by Weſt about 13 miles.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Banks that lie off in the Sea.</head>
+               <div type="section">
+                  <head>The <hi>Dogger-Bank.</hi>
+                  </head>
+                  <p>On the <hi>Dogger-Bank</hi> the ground is even for ten leagues together; on the South-ſide of it there is 24, 24, 25, 25, 25, 24, 24, 23, 22, 21, 20, 19, 18 fathom, fine white Sand; and on the North-ſide it falls off with a flat, and deepens by little and little; in ſayling four leagues North after you have ſixteen fathom, you will have your water every caſt deeper; at four leagues you will have twenty fathom, fine white Sand; the Bank lyeth neareſt North-eaſt from the <hi>Sporn,</hi> and runneth near the <hi>Juttiſh</hi>-Riff: On the South-ſide, a mile from the Bank, you will have 20 and 22 fathom fine white and gray Sand; you will have 18, 17, 16, 14, 11 fa<g ref="char:EOLhyphen"/>thom, fine whitiſh gray Sand, and continueth in the depth of 11 fathom on the <hi>Dogger-bank</hi> for 7 leagues together, in the Latitude of 55 <hi>deg.</hi> 9 <hi>min.</hi> to the Eaſt<g ref="char:EOLhyphen"/>wards of <hi>Flamborough-head</hi> 34 leagues. The Sound<g ref="char:EOLhyphen"/>ings on the very Ridge of the <hi>Dogger-bank,</hi> toward the Weſt end, are 11, 11, 12, 11, 10 and a half, 10 and a half, 10 and a quarter, 10 and a quarter, 10 and a half fathom. In ſtanding a mile ſoutherly, you will deepen from 10 and a quarter to 12 fathom, and ſayling We<g ref="char:EOLhyphen"/>ſterly you will find ſhoaler water: In ſayling 30 leagues Eaſt and Weſt, the ground is of the ſame nature: For three leagues breadth North or South, it is 11, 12, 10 and a half, 11, 11, 13, 14, 15, 14 fathom; then the water grows deeper on either ſide, but more ſteeper on the North than on the South; yet towards the Weſt part of this Bank, you will find the South ſide to deepen more ſuddenly than to the Eaſt end: It lyeth neareſt S. W. by Weſt, and N. E. by Eaſt, ſtretching within 16 leagues of <hi>Flamborough-head.</hi> The Sound<g ref="char:EOLhyphen"/>ings on the Weſt end <hi>Flamborough-head</hi> bearing Eaſt by North, four degrees northerly, diſtant eight leagues, and ſteering W. S. W. you will have white and brown Sand, 20, 19, 17, 16 fathom, with ſmall ſtones of Gra<g ref="char:EOLhyphen"/>vel. But further off towards the <hi>Dogger-bank</hi> 32, 30, 25, 32, 27, 30 fathom, fine brown and gray Sand. A<g ref="char:EOLhyphen"/>bout two leagues to the ſouthward of <hi>Flamborough-head</hi> you will have 10 fathom water, ſmall gravel ſtones and brown Sand. When <hi>Hornſey-ſpire-ſteeple</hi> bears W.S.W. about three leagues, and <hi>Flamborough-head</hi> N. W. by North, you may anchor in 17 fathom, gravelly ground. <hi>Flamborough-head</hi> lyeth in the Latitude of 54 <hi>deg.</hi> 14 <hi>min.</hi>
+                  </p>
+                  <p>In the Latitude of 54 <hi>deg.</hi> 3 <hi>min.</hi> to the Eaſt of the Meridian of <hi>Flamborough-head</hi> 5 ⅓ leagues, you will have 25 fathom, gray Sand, with ſmall ſtones and pieces of ſhells. The Soundings from 17, 18, 20, 21, 23, 24, 25 fathom, fine gray Sand, ſometimes gravel, and ſometimes ſhells.</p>
+               </div>
+               <div type="section">
+                  <head>Crouch-Bank.</head>
+                  <p>In the mid-way between <hi>Flamborough-head</hi> and the <hi>Naze</hi> lyeth this great Bank, North by Eaſt and South by Weſt in the Sea, being in length 35 leagues; the South end hereof is diſtant from the <hi>Dogger-bank</hi> five leagues, and from <hi>Flamborough-head</hi> North-eaſt, half eaſterly, 39 leagues; on the South end of this Bank is 22, in the middle 38, 39, and on the North end 28 fa<g ref="char:EOLhyphen"/>thom, which beareth from the <hi>Naze</hi> W. S. W. 39 leagues.</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:151324:6"/>
+                  <head>The <hi>White-Bank.</hi>
+                  </head>
+                  <p>About twenty leagues North from <hi>Friezland</hi> lyeth the <hi>White-bank,</hi> being in length 27 leagues, and in breadth five leagues, being diſtant from the <hi>Dogger-bank</hi> 13 leagues; lying Eaſt by North, and Weſt by South in the Sea; on the Weſt end is 23 fathom, and on the South end 22.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>White-Water.</hi>
+                  </head>
+                  <p>North-Weſt by Weſt, fourteen leagues from the <hi>Texel,</hi> lyeth a Bank called the <hi>White-water,</hi> lying N. E. by Eaſt, and S. W. by South in the Sea, being in length ten leagues, on which is 16 fathom, the Weſt end being diſtant from the <hi>Well</hi> ſeven leagues, where you will have 24 and 25 fathom, and between it and the <hi>Dogger-bank</hi> 27 and 28 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Well-Bank.</hi>
+                  </head>
+                  <p>The Soundings of the <hi>Well-bank</hi> are 15 and 14 fa<g ref="char:EOLhyphen"/>thom, brown ſand and ſmall gravel; between <hi>Flambo<g ref="char:EOLhyphen"/>rough-head</hi> and it the diſtance being 20 leagues, you will have 25, 23, 22, 21, 22, 18 fathom; near the Weſt ſide of the Bank you will have 12, 14, 16, 17, 13, 15 fathom, brown Sand, with ſmall gravel ſtones in it red and black, and ſome Caſts fine brown Sand, and pieces of ſhells. On the South-weſt part of the <hi>Well-bank</hi> you will have 13 fathom, brown Sand: This <hi>Well-bank</hi> ſtretcheth far eaſterly towards the <hi>White-ſand.</hi> The depth of Water between both is 15, 14, 18, 17, 17, 23, 17, 21, 21, 23, 21, 14 fathom, brown Sand, but no certainty in any ground to know the diſtance of places from the Land.</p>
+                  <p>In the Latitude of 53 <hi>deg.</hi> 6 <hi>min. Flamborough-head</hi> bearing N. W. by Weſt, five degrees weſterly, diſtant 43 leagues; ſayling South, your depth will be 16, 17, 21, 21, 23, 21, 14. In the Latitude 52 <hi>deg.</hi> 54 <hi>min.</hi> 20, 18, 23, 19 fathom, brown gritty Sand.</p>
+                  <p>The Tydes run North by Eaſt, and South by Weſt,
+<note place="margin">Flowing of the Tydes.</note> of an indifferent ſtrength; it is high-water here on the Change-day of the Moon.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A Deſcription of the Sands, Shoals, Buoys, Beacons, and Sea-Marks up<g ref="char:EOLhyphen"/>on the Coaſt of <hi>England,</hi> from the Buoy of the <hi>Nower</hi> to <hi>Dover.</hi>
+               </head>
+               <div type="section">
+                  <head>The <hi>Flats.</hi>
+                  </head>
+                  <p>THE <hi>Flats</hi> are ſo called, by reaſon of their ge<g ref="char:EOLhyphen"/>neral flatneſs, on which you may ſayl 4 or 5 miles and not alter one foot in depth. In the courſe from the <hi>Narrow</hi> to the <hi>Red-ſand,</hi> you may have ten foot water; to the eaſtward, in ſome Holes, you have 15 and 16 foot water. The Dangers that are in theſe <hi>Flats,</hi> are diſcourſed of in their place; for he that keeps himſelf on the Courſe that leads from the Buoy of the <hi>Woolpack</hi> to the Buoy of the <hi>Red-ſand,</hi> (which is N. W. by Weſt, a quarter North) if he take Tyde according to the draught of his Ship, ſhall not meet with any dangers.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Gilman.</hi>
+                  </head>
+                  <p>The <hi>Gilman</hi> is a Shoal that lyeth up from the Buoy of the <hi>Spell</hi> W.N.W. about five miles, and a quarter of a mile South-eaſt by South from the Eaſt end of the <hi>Spaniard,</hi> and falls dry on Spring-tydes. He that keepeth in the Courſe that leadeth from the Buoy of the <hi>Woolpack,</hi> to the Buoy of the <hi>Red-ſand,</hi> will not come near it. This Shoal is noted in the Draught with the Letter <hi>C.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Spaniard.</hi>
+                  </head>
+                  <p>The <hi>Spaniard</hi> is a Sand that takes its beginning from <hi>Sheppy-Iſland,</hi> and runs down Eaſt by North, until the Buoy of the <hi>Red-ſand</hi> is N. W. by North from the Eaſt end of it, a mile and a half diſtance: a good part of this Sand falls dry. And he that keeps the Weſt end of St. <hi>Nicholas</hi>'s Wood in the <hi>Gore,</hi> open to the Eaſt<g ref="char:EOLhyphen"/>ward of the <hi>Reculvers-ſteeple,</hi> will not come near this Sand. Between this and the <hi>Red-ſand,</hi> runs down the firſt Depths, where there is 5, 6, 7, and 8 fathom; the more to the eaſtward the deeper water.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Red-ſand and Buoy.</hi>
+                  </head>
+                  <p>The <hi>Red-ſand</hi> is very long; on the Eaſt end whereof lies a Buoy to direct them clear (to the North of it) into the Channel, betwixt this Sand and the <hi>Oaze-edge,</hi> which leads towards <hi>London,</hi> or downward over the <hi>Flats;</hi> the North ſide of this Sand, from the Buoy up<g ref="char:EOLhyphen"/>wards, is ſteep too, but indifferent ſhoaling. This Buoy lies from the Buoy of the <hi>Oaze-edge</hi> Eaſt, half North,
+<note place="margin">Marks of the Buoy.</note> and Weſt, half South, about 3 or 4 miles. The Mark on the Land for this Buoy, is to bring the Lands-end S. W. and St. <hi>Nicholas</hi>'s Wood open to the <hi>Reculvers,</hi> or to bring the <hi>Reculvers</hi> S. E. The eaſtermoſt end of this Sand lies out with two Tongues, upon the norther<g ref="char:EOLhyphen"/>moſt of which is placed a Buoy.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Oaze-edge and Buoy.</hi>
+                  </head>
+                  <p>The <hi>Oaze-edge</hi> is a Sand that lies to the northward of the <hi>Red-ſand,</hi> and lies E. N. E. and W. S. W. contain<g ref="char:EOLhyphen"/>ing about 4 miles in length, and half a mile in breadth. The Channel betwixt this and the <hi>Red-ſand,</hi> is in ſome parts more, and in ſome leſs then a mile broad: The South ſide of this Sand is ſteep too, and the deepeſt part in the Channel is nine and ten fathom. At the Weſt end of it lies a Buoy, and bears North by Eaſt from the Lands-end,
+<note place="margin">Mouſe<g ref="char:EOLhyphen"/>hole-Church.</note> (on the N. E. of <hi>Sheppy</hi>) then <hi>Mouſe<g ref="char:EOLhyphen"/>hole</hi> Church is open to the eaſtward of the ſaid Lands<g ref="char:EOLhyphen"/>end; from this Buoy to the Buoy of the <hi>Nower,</hi> the Courſe is Weſt, a quarter South, about five miles.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Spile.</hi>
+                  </head>
+                  <p>The <hi>Spile</hi> is a ſmall round Sand, and lies almoſt thwart the Buoy of the <hi>Oaze-edge</hi> to the ſouthward: On the North ſide of the Weſt-tayl of the <hi>Red-ſand,</hi> you have but ſix foot at low-water, and lies very dan<g ref="char:EOLhyphen"/>gerouſly.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Buoy of the Woolpack.</hi>
+                  </head>
+                  <p>The Buoy of the <hi>Woolpack</hi> is the weſtermoſt Buoy in the Narrow, on the North ſide of the Channel,
+<note place="margin">Marks of this Buoy.</note> and lyeth on the Weſt Spit of the <hi>Woolpack-ſand,</hi> and bears from <hi>Reculvers-ſteeple</hi> North by Weſt; then you have two little Hills like two Paps on the upper Land to the ſouthwards, juſt open and ſhut to the <hi>Reculvers-ſteeple.</hi> This Buoy is noted in the Draught with the letter <hi>x.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="10" facs="tcp:151324:7"/>
+                  <head>The <hi>Buoy of the Spell.</hi>
+                  </head>
+                  <p>The Buoy of the <hi>Spell</hi> lyeth on the South-ſide of the Narrow or Channel, a little to the eaſtward of the Buoy of the <hi>Woolpack;</hi> betwixt theſe Buoys, the Channel is a Cables length and a half broad, and but nine foot at low-water. This Buoy is noted in the Draught with the letter<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Hook.</hi>
+                  </head>
+                  <p>The <hi>Hook</hi> is a Shoal that runneth out from <hi>Marget<g ref="char:EOLhyphen"/>ſand</hi> S. E. ſo far to the ſouthward, that it makes the Channel very narrow. The thwart Mark for this Sand, is to bring <hi>Birchington-ſteeple</hi> into a green Dauk or Val<g ref="char:EOLhyphen"/>ley in the Cliff, then the Steeple will bear from you S. E. five degrees ſoutherly. The longſt Mark, is to bring St. <hi>Peter</hi>'s Church upon the Weſt end of the Cliff. This Shoal is noted in the Draught with the Letter <hi>z.</hi>
+                  </p>
+                  <p>The longſt Mark to direct you clear of the <hi>Hook</hi> to the Buoy of the <hi>Searn,</hi>
+                     <note place="margin">Longſt Mark.</note> is to bring St. <hi>Peters-ſteeple</hi> over the Eaſt ſide or Cl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff of <hi>Weſtgate-bay.</hi> You muſt keep them ſo, till you bring <hi>Birchington-ſteeple</hi> over the Gaul, when you take hold of the Mark to go through.</p>
+               </div>
+               <div type="section">
+                  <head>Middle-ground at the Cliff-end.</head>
+                  <p>The <hi>Middle-ground</hi> is a Shoal that lyeth below the <hi>Ho<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k,</hi> neareſt the ſhore, on which there is but fourteen foot at low-water, and on each ſide four fathom: this being a ſmall narrow Ridge, lyeth E.N.E. and W.S.W. one third of a mile long.
+<note place="margin">Marks to lead clear of it.</note> The Marks to keep you clear, Is to bring St. <hi>Peter</hi>'s Church over the Eaſt-ſide of the <hi>Weſtgate-bay</hi> as aforeſaid; or to bring the nether<g ref="char:EOLhyphen"/>moſt Tree on the next high Land (to the weſtward of the <hi>Reculvers</hi>) a little open to the ſouthward of the <hi>Reculvers,</hi> (this Tree leaneth a little to the ſouthward) and is a good Mark for the <hi>Hook</hi> downwards, or from <hi>Marget-ſand</hi> upward. This Sand is noted in the Draught with the letter <hi>A.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Horſe.</hi>
+                  </head>
+                  <p>The <hi>Horſe</hi> is a Shoal that lyeth a little above the <hi>Hook</hi> of <hi>Marget-ſand;</hi> on the South-ſide, a little be<g ref="char:EOLhyphen"/>low the <hi>Reculver</hi> Church, on which it is very ſhoal at low-water.
+<note place="margin">The Mark.</note> To avoid this, you muſt keep St. <hi>Peter</hi>'s ſteeple (on the Eaſt-ſide of the <hi>Weſtgate-bay</hi>) a little upon the Cliff, upward to the Buoy of the <hi>Searn,</hi> and ſo from the Buoy downward. This Sand is noted in the Draught with the letter <hi>B.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Buoy of the Searn.</hi>
+                  </head>
+                  <p>The Buoy of the <hi>Searn</hi> is the eaſtermoſt Buoy that lyeth on the North-ſide of the <hi>Reculvers;</hi> the Steeple bearing from the Buoy South by Weſt, then have you a Wind-mill a little open of the Channel of <hi>Reculvers</hi>-Church, or to bring over a ſmall Houſe that ſtandeth a little to the Eaſt end of the Church. The Courſe up<g ref="char:EOLhyphen"/>wards from this Buoy through the Narrow, is W.N.W. The longſt Marks on the ſhore,
+<note place="margin">Marks of this Sand.</note> is to bring <hi>Birchington</hi>-Church right over a Gaul, or black Hole in the Weſtern part of the Cliff end. This Buoy is noted in the Draught with the letter <hi>w.</hi>
+                  </p>
+                  <p>Between the <hi>Woolpack</hi> and the <hi>Pan-ſands,</hi> or the Weſt end of the <hi>Wedge</hi> and the <hi>Pan-ſand,</hi> goes down a Chan<g ref="char:EOLhyphen"/>nel of one mile and a half broad,
+<note place="margin">A new Channel.</note> and runs down E.N.E. At the firſt entrance, below the <hi>Wedge</hi> and <hi>Pan-ſands,</hi> you have five fathom water; and ſo down to the eaſt<g ref="char:EOLhyphen"/>ward deeper, as 6, 7, and 8 fathoms; but at the North<g ref="char:EOLhyphen"/>ſide of the <hi>Woolpack,</hi> betwixt that and the <hi>Pan-ſands,</hi> there is but three and a half, and four fathoms at low-water; the more to the Eaſt, the Channel is deeper and broader.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Wedge.</hi>
+                  </head>
+                  <p>The <hi>Wedge</hi> is a Sand that lyeth on the North ſide of <hi>Marget-ſand,</hi> being broad at the Weſt end, and ſharp at the Eaſt end, reſembling its Appellation; it lyeth Weſt by North, and Eaſt by South, about ſix miles in length, having at the weſtermoſt end, between it and <hi>Marget-ſand,</hi> three fathom water, and ſo down to the Eaſt end until it joyn with <hi>Marget-ſand,</hi> there is two fathom, and on the North-ſide 7, 8, and 9 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Marget-Sand.</head>
+                  <p>The Eaſt end of <hi>Marget-ſand</hi> lyeth before <hi>Marget,</hi> and <hi>Weſtgate-bay,</hi> and up till you are thwart the <hi>Recul<g ref="char:EOLhyphen"/>vers.</hi> And by reaſon of ſome Swatches that are in it, it is divided into more names, the <hi>Searn,</hi> the <hi>Woolpack.</hi> The Eaſt end of this Sand beareth from <hi>Marget</hi>-Church North, half Weſt, four miles diſtance; and as it runs up to the weſtwards, ſo it grows nearer the ſhore.
+<note place="margin">Marks for the Eaſt end.</note> The Marks for the Eaſt end, is to bring <hi>Marget</hi>-ſteeple and the Mill in one. The Depths you have along this Sand, as you turn up or down, are at the Eaſt end, and ſo upward, 9, 8, 7, 6, 5 fathom. On the North ſide of this Sand, a quarter of a mile off, lyeth another Sand, called the <hi>Wedge,</hi>
+                     <note place="margin">The Wedg.</note> which runs down alongſt by it, and a Channel of 4, 3, 2, 1 fathom water; at the lower end it joyns with the other Sand: At the Eaſt end, the moſt part of this Sand dries at low-water.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Colborn.</hi>
+                  </head>
+                  <p>The <hi>Colborn</hi> is a Shoal that lyeth to the northwards of <hi>White-dike,</hi> and a little to the ſouthwards of <hi>Broad<g ref="char:EOLhyphen"/>ſtairs-Peer,</hi> (which ſometimes ebbs dry) it lies a large half mile off the Shore, and there is nine foot water between it and the ſhore. The Mark for a ſmall Ship to avoid it, Is to keep the top of St. <hi>Peters</hi>-ſteeple open over the Land. This Shoal is noted in the Draught with the Letter <hi>u.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>White-Dike.</hi>
+                  </head>
+                  <p>The <hi>White-dike</hi> is a Shoal that runs off from the ſhore a large half mile, and lies half a mile to the northwards of <hi>Ramſgate;</hi> all the inner part of it dries every Ebb, and on the outer part it is two foot at low-water; and at ſometimes there is but eight or nine foot in the Chan<g ref="char:EOLhyphen"/>nel betwixt this and the <hi>Querns.</hi>
+                     <note place="margin">Inner Channel.</note> This Shoal is noted in the Draught with the letter <hi>t.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Querns.</hi>
+                  </head>
+                  <p>The <hi>Querns</hi> is a ſmall ſhoal that lyeth W.N.W. from the <hi>Brake;</hi>
+                     <note place="margin">The Inner Channel.</note> between them both is a Channel for good Ships at high-water; it is a mile broad, only at the South end there lies a ſmall <hi>Middle-ground</hi> near to the <hi>Brake,</hi> on which there is but ſeven foot at low-water.</p>
+                  <p>The longſt Mark for this <hi>Middle-ground,</hi>
+                     <note place="margin">Longſt Mark.</note> Is to bring St. <hi>Margets</hi>-Church (near the <hi>South-Fereland</hi>) a Ships length open to the ſouthwards of <hi>Deal</hi>-Caſtle.</p>
+                  <p>The thwart Mark,
+<note place="margin">Thwart Mark.</note> Is to bring <hi>Winsborough</hi>-ſteeple a Ships length open to the northwards of <hi>Sandwich</hi>-ſtee<g ref="char:EOLhyphen"/>ple, then are you to the northward of this <hi>Middle-ground.</hi>
+                  </p>
+                  <p>The leading Mark through this Channel,
+<note place="margin">Leading Mark.</note> Is to bring St. <hi>Margets</hi>-Church in the middle, between <hi>Wamor</hi> and <hi>Deal</hi>-Caſtle, (the <hi>Middle-ground</hi> excepted) for when you come near that, you muſt keep the Church as a<g ref="char:EOLhyphen"/>foreſaid: Or you may turn the Church from the middle
+<pb n="11" facs="tcp:151324:7"/>between <hi>Deal</hi> and <hi>Wamor</hi>-Caſtle. If you bring the Church more than half over towards <hi>Wamor</hi>-Caſtle, you will be near the <hi>Brake,</hi> if not on it.</p>
+                  <p>The Mark for the North-end of the <hi>Querns,</hi> Is to bring St. <hi>Lawrence</hi>-ſteeple a Ships length to the South<g ref="char:EOLhyphen"/>ward of the Cliff.</p>
+                  <p>For the South-end, Bring the Mill near <hi>Ramſgate,</hi> to the northward of <hi>Ramſgate-Peer.</hi>
+                  </p>
+                  <p>Depths in this Channel, at low-water, are two and a half, three and a half, and four fathom; the nearer the <hi>Brake</hi> the deeper. This Sand is noted in the Draught with the letter <hi>ſ.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Brake.</hi>
+                  </head>
+                  <p>The <hi>Brake</hi> is a Sand that lyeth to the weſtwards of the North part of the <hi>Goodwin;</hi> between this and the <hi>Goodwin,</hi> is the Channel for great Ships to paſs; the North end of it is the narroweſt, and moſt ſteep too, and dries moſt at low-water.</p>
+                  <p>The Mark for the North end, Is to bring St. <hi>Law<g ref="char:EOLhyphen"/>rence</hi>-ſteeple on the South end of the Cliff, to the northward of <hi>Ramſgate-Peer.</hi> This Sand lyeth N.N.E. and S.S.W.</p>
+                  <p>The Mark for the South end, Is to bring <hi>Aſh</hi>-ſteeple open a hand-ſpikes length to the South of <hi>Sandwich</hi>-ſteeple, then are you clear to the ſouthward of the South end; or elſe the Wind-mill on the Cliff, at the S. E. end of the Town of <hi>Ramſgate.</hi>
+                  </p>
+                  <p>The Depths in this Channel, are 7, 8, 9, 10, 11 and 12 fathom.</p>
+                  <p>The Mark to lead through to the northwards of the Cliff of the <hi>South-Foreland</hi> Point, or elſe <hi>Marget</hi>-Church on the third Cliff from the <hi>Foreland</hi> northward, to te northward of the <hi>Bunt-bead.</hi> The <hi>Goodwin</hi> is not ſo ſteep too, but you may come there in 8 fathom, and to the <hi>Brake</hi> in 6 and 7 fathom, according to the time of Tyde. This Sand is about two miles long, and a quarter of a mile broad.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Goodwin.</hi>
+                  </head>
+                  <p>The <hi>Goodwin</hi> is a Sand that lyeth before the <hi>Downs,</hi> and is from the ſhore, in ſome parts four miles, and in ſome five; the ſouthern half lies S.S.W. and N.N.E. rounding towards the <hi>South-Foreland,</hi> the northern part of it lies North and South, rounding to the Eaſt ſide, and is in moſt places ſteep too; at the North end there is indifferent good ſhoaling. The Sand, by ſtorms and ſtrong Tydes, alters every year, is very broad, and dries a great part of it, but moſt to the North end.</p>
+                  <p>The Marks for to go clear of the <hi>North-ſand-head,</hi>
+                     <note place="margin">Marks for the North-ſand-head.</note> Is to bring St. <hi>Peters</hi>-ſteeple on <hi>Broad-ſtairs-Peer;</hi> this Mark will direct you by it in 5 and 6 fathom, according to the Tyde; and in the Night, the Light on the <hi>North-Foreland</hi> N. W. half Weſt.</p>
+                  <p>The Mark for the <hi>South-ſand-head,</hi>
+                     <note place="margin">Marks for the South-ſand-head.</note> Is the ſteeple of <hi>Ring-joul,</hi> on the Village called <hi>Kings-down,</hi> or the light-Houſes on the <hi>South-foreland</hi> together.</p>
+                  <p>From this Sand, ſpits out againſt the <hi>Brake,</hi> a Sand called the <hi>Bunt-head,</hi>
+                     <note place="margin">Bunthead.</note> which is very ſteep too, having 11 ſathom cloſe to it. The North end lyeth off <hi>Broad<g ref="char:EOLhyphen"/>ſtairs</hi> about ſix miles, and the South end about 3 miles off the ſhore. If you, coming from the Weſt, do keep <hi>Folkſton</hi>-Land open of <hi>Dover</hi>-Land, it will carry you without the <hi>South-ſand-head.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Fatts.</hi>
+                  </head>
+                  <p>The <hi>Falls</hi> is a long narrow Sand that lies South by Weſt from the <hi>Galloper,</hi> about 12 miles; it is 15 miles in length, and lyeth South by Weſt, and North by Eaſt: The South end lies about 7 miles without the <hi>Goodwin<g ref="char:EOLhyphen"/>ſand,</hi> and bears from the Light-houſe on the <hi>South-fore-land</hi> E. N. E. about 13 miles: The North end bears from St. <hi>Peters</hi> Church on the <hi>North-foreland</hi> E. N. E. about 16 miles; the South end is ſhoaleſt, where there is but 20 and 21 foot at low-water: This end hath a broad, round, flat Head like the <hi>Galloper,</hi> where the Tyde doth ripple and whelm very much; cloſe to it there is 20 fathom; ſome ſay they have been on it in 15 foot water; on the North part of it, 4, 4 and a half, 5, and 5 fathom and a half. Whether it alters or not we cannot learn of any; the ground is groſs Gravel, and the Soundings about it are very uneven; a mile within and without the North end there is 27 fathom; it is ſteep too on both ſides. The Soundings we had from the <hi>North-Foreland,</hi> are 9, 10, 11, 12, 13, 14, 15, 16, 19, 22, 24, 27, 28: 24, 23, 22, 20, 11, 6 and a half; and on the North end there is, as about the South end, 15, 19, 20, 25, 28 fathom within and without it.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Galloper.</hi>
+                  </head>
+                  <p>The <hi>Galloper</hi> is a Sand that lies near S. E. by South from the <hi>Gabard</hi> about ten miles, and is properly ſo called, by reaſon of the great length of it, with the ſtrength and croſſueſs of the Tyde that ſets over it, be<g ref="char:EOLhyphen"/>ing very ſteep on both ſides; all which, in foul weather, makes ſuch a great ſhort Sea, that if any Ship come near it, it makes Her, and the People in Her to gal<g ref="char:EOLhyphen"/>lop to get from it. Of all the Sands, none are like to this for narrowneſs; it is a wonder, that being it conſiſts on the upper part of ſmall ſhingle or ſtones, and the Tydes ſetting ſo ſtrong and croſs over it, together with the Sea that muſt fall upon it in foul weather, being ſo great, with the ſteepneſs on both ſides, and the narrow<g ref="char:EOLhyphen"/>neſs atop, that it is not diſperſed and carried away: It is ſuppoſed, that the moſt part of this Shoal (ſome depth under the ſhingle) is a Rock, the top whereof holds in the ſhingle: And it is alſo very like, that it doth alter every Winter in ſtormy weather; it lyeth North by Eaſt, and South by Weſt; in length it is 8 miles and a half, and in breadth 20 or 30 foot; but at the South end it hath a broad head, and flat at top, half a mile broad, but ſteep too round about it: Cloſe to the South end was a Hole, where we ſaw the Tyde make a very great whelming and ripling; we thought that the leaſt water had been there, but when we had hove the Lead within it, we had 20 fathom the next Caſt; without it we had but 7, 8, 9, and 10 fathom. The North end of it bears from <hi>Orford</hi>-Church S. E. ſeven degrees Eaſt, 24 miles off. The South end bears from the <hi>North-Foreland</hi> N. E. five degrees North, 27 miles: Within the body of this Sand we met with a Hole, S.W. and N.E. three miles in length, where we had 20 fathom water. Other Depths that we had betwixt this Sand and the <hi>Shipwaſh,</hi> were 14, 16, 17, 18, and 20 fathom, and ſuch like. On the S. E. ſide of this Sand, two miles off, we had from the Sand off-ward 15, 17, 18, 20, 24, and 26 fathom.</p>
+                  <p>The Tyde ſets over it N. E. by Eaſt, and S. W. by Weſt, four leagues a Watch; and it floweth South and North, and hath but 14 and 15 foot at low-water; on the top of the Spring, and cloſe to the outward ſide of the Sand, you will have 14 fathom, and at the inner ſide ten and eleven fathom.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Gabard.</hi>
+                  </head>
+                  <p>The <hi>Gabard</hi> is a Sand that lies near Eaſt from the <hi>Shipwaſh,</hi> about 8 or 9 miles, and lyeth North and South, being in length three miles, and a Cables length broad; on which at low-water there is but 12 or 13 foot, and hath good ſhoalings on both ſides; it lyeth E.S.E. five leagues from <hi>Orford</hi>-Church and Caſtle.</p>
+                  <pb n="12" facs="tcp:151324:8"/>
+                  <p> The Depths between this Sand and <hi>Orford-neſs,</hi>
+                     <note place="margin">Bearings of the Gabard.</note> is near 18, 19, and 20 fathom, onely a mile W. N. W. from the North end of it we had, two caſts off, 27 fa<g ref="char:EOLhyphen"/>thom: The South end of it, by judgment, lies from the North end of the <hi>Galloper</hi> nine or ten miles, S. E. by South, and N. W. by North.</p>
+                  <p>The Depths betwixt this Sand and the North end of the <hi>Galloper,</hi> were 14, 15, 16, 17, and 18 fathom.</p>
+               </div>
+               <div type="section">
+                  <head>Kentiſh-Knock.</head>
+                  <p>The <hi>Kentiſh-Knock</hi> is a Sand, the body whereof lies five miles South from the <hi>Long-ſand-head,</hi> and is three miles in length N. E. and S. W. and in breadth 2 miles N. W. and S. E. This Sand hath the reſemblance of an Oval, and hath a ridge in the middle, from N. W. to S. E. on which there is but ſix foot at low-water: To the N. E. and S. W. of this Ridge, there is 18, 10, 12, 14 and 15 foot, as you are near the ends of it, and is ſteep too round about. Between this and the <hi>Long-ſand,</hi> is a Channel near two miles broad, where there is 12 and 13 fathom: From the S. W. and N. E. end of this ſhoal, runs a Ridge more than a mile to the N. E. and S. W. on which there is 5, 6, 7, 8, 9, and 10 fathom; and off either ſide more water. South by Eaſt from the <hi>Long-ſand-head,</hi> you will go to the eaſt<g ref="char:EOLhyphen"/>wards of this ſhoal. To the E. S. E. of this, you will quickly come in 15,
+<note place="margin">Bearings of the Kentiſh Knock.</note> 17, 19, and 20 fathom water. The body of this <hi>Knock</hi> lies from St. <hi>Peters</hi>-Church (on the <hi>North-Foreland</hi>) N. N. E. three degrees Eaſt, fifteen miles; The N. E. end of the <hi>Knock</hi> and the <hi>Long-ſand<g ref="char:EOLhyphen"/>head,</hi> bears South by Eaſt, and North by Weſt.</p>
+                  <p>To know when you are near the <hi>Knock</hi> or <hi>Long<g ref="char:EOLhyphen"/>ſand head,</hi>
+                     <note place="margin">A note to know the Knock from the Long-ſand</note> is thus, When you are near the <hi>Knock,</hi> you ſhall ſee the Land of the <hi>North-Foreland</hi> very plain; but when you are at the <hi>Long-ſand-head,</hi> you will hardly ſee the Land, except it be very clear weather, or unleſs you go up the Shrouds. At the <hi>Knock</hi> you may ſee it plainly on the Deck.</p>
+               </div>
+               <div type="section">
+                  <head>Pan-Sands.</head>
+                  <p>Theſe are a heap of ſmall Sands of divers ſhapes, ly<g ref="char:EOLhyphen"/>ing at the South-weſt end of the <hi>Long-ſand,</hi> which dries at low-water, and hath ſome water running betwixt them, but no paſſage for Ships; one of which Sands joyns to the S. W. end of the <hi>Girdler,</hi> and lies up from it W. S. W. in length two miles and a half, and makes the entrance into the <hi>Black-deeps,</hi> where the Channel is but half a mile broad, and 10, 11, and 12 fathom water. The reſt of theſe <hi>Pan-ſands</hi> lie E.S.E. from this 4 miles, and then trend away N.E. 5 miles and a half, even with the <hi>Long-ſand,</hi> and to it. Theſe Sands are noted in the Draught with the letter <hi>E.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Girdler.</hi>
+                  </head>
+                  <p>The <hi>Girdler</hi> is a Sand that lies S. W. from the <hi>Long<g ref="char:EOLhyphen"/>ſand,</hi> and ſpits home to it; it lies N. E. by Eaſt, and S. W. by Weſt; it is four miles and a half long, and half a mile broad, being ſteep too on the N. W. ſide, where there is 12, 15, 16 fathom water. From the N. E. end of this Sand, to the South-weſtward, the Channel grows narrower and narrower. This Sand is noted in the Draught with the letter <hi>D.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Long-Sand.</hi>
+                  </head>
+                  <p>The <hi>Long-ſand</hi> is properly ſo called, by reaſon of its great length, containing 15 miles and a half; in breadth it is from one mile to two, and lies N. E. by Eaſt, and S. W. by Weſt. On the N. W. ſide it is ſteep too, having in moſt places ten fathom cloſe to it: But at the N. E. end, which is called <hi>Long-ſand-head,</hi> is good ſhoaling, lying off a mile N. E. but in nine fathom; the S. E. ſide not ſo deep, you may ſayl along it in 4, 5, and 6 fathom.
+<note place="margin">Long-ſand head.</note> Much of this Sand dries at three quarters Ebb, and in ſome parts of it there is long nar<g ref="char:EOLhyphen"/>row Swatches, two or three one by another, which run upward and downward as the Sand lies, in which, at low-water was three and four fathoms, the Ridges between are dry:
+<note place="margin">Bearings of the Long<g ref="char:EOLhyphen"/>ſand.</note> The Head of this Sand bears from St. <hi>Peters</hi>-Church (on the <hi>North-Foreland</hi>) S. S. W. and N. N. E. about 20 miles; and from the <hi>Naze</hi> E. S. E. five degrees South, 17 miles; and from the South end of the <hi>Galloper</hi> Weſt, five degrees South, about 11 miles; and from the North end of the <hi>Falls,</hi> it bears N. W. by North about 16 miles. At the head of this Sand it flows North and South, and the Flood and Ebb ſets on ſeveral Points of the Compaſs.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Shivering-Sand.</hi>
+                  </head>
+                  <p>The <hi>Shivering-ſand</hi> runs up to the S.W. from <hi>Knock-John,</hi> and lyeth N. E. and S. W. being in length a<g ref="char:EOLhyphen"/>bout ſeven miles, and in breadth a mile, running away ſharp at both ends, and rounding on the North-weſt ſide, where you have 8, 9, and 10 fathom cloſe to it; on the South ſide 10 and 12 fathoms; and in the mid<g ref="char:EOLhyphen"/>dle, between it and the <hi>Girdler,</hi> there is 12, 13, 14,
+<note place="margin">Black-deeps.</note> and 15 fathom: From the South-weſt end of this, to the Buoy of the <hi>Red-ſand,</hi> is three miles W.S.W. and E. N. E. and from the North-weſt end of the <hi>Mouſe,</hi> to this Sand, is four miles and a half, Eaſt by South, and Weſt by North; and from the South-weſt end of this, to the South-weſt end of the <hi>Weſt-Barrows,</hi> is two miles and one third, N. N. W. and S. S. E. and from the South-weſt end of this, to the South-weſt end of the <hi>Pan-ſands,</hi> is half a mile South by Eaſt, and North by Weſt.</p>
+               </div>
+               <div type="section">
+                  <head>Knock-John.</head>
+                  <p>
+                     <hi>Knock-John</hi> is a Sand that lies at the South-weſt end of the <hi>Sunk,</hi> lying N. E. by E. and S. W. by Weſt, and is in length about ſix miles, and a mile broad in the middle, growing narrower towards each end, and runs up with a Tayl on the North-weſt ſide of the <hi>Shi<g ref="char:EOLhyphen"/>vering-ſand,</hi> where there is a ſmall ſwatch that parts them, but is not navigable: This Sand is winding and ſharp at both ends, the North-eaſt end tayling on the South-weſt ſide of the <hi>Sunk:</hi> A great part of this Sand dries at half-tyde, and is ſteep too on both ſides, having ten fathom cloſe to it: Betwixt this and the <hi>Long-ſand,</hi> the Channel is a mile and three-quarters broad; and betwixt this and the <hi>Eaſt-Barrows</hi> it is a mile broad.</p>
+               </div>
+               <div type="section">
+                  <head>The Sunk.</head>
+                  <p>The <hi>Sunk</hi> is a Sand that lyeth on the North ſide of the <hi>Long-ſand,</hi>
+                     <note place="margin">Bearings of the Sunk.</note> whoſe North-eaſt ends do bear one from the other E. S. E. and W. N. W. about two or three miles diſtant; between them both enters the Channel called the <hi>Black-deeps,</hi> where there is 11, 12, 13, 14, and 15 fathom water, and ten fathom cloſe to the Sands on both ſides. This Sand lyeth N. E. by Eaſt, and S. W. by Weſt, about 8 miles and a half, the Weſt end running a little on the North-weſt ſide of <hi>Knock-John,</hi> having a ſmall ſwatch that runs through betwixt them, dividing them into two Sands, but is not fit for Ships to paſs through. This Sand dries in ſeveral places, and is half, and three quarters of a mile broad.</p>
+               </div>
+               <div type="section">
+                  <head>Eaſt-Barrows.</head>
+                  <p>The <hi>Eaſt-barrows</hi> is the North-eaſt part of the whole <hi>Barrows-ſand,</hi> and lies down from the North-eaſt end
+<pb n="13" facs="tcp:151324:8"/>of the <hi>Weſt-barrows,</hi> N. E. by Eaſt, about four miles, in two ſeveral Sands, one at the end of the other, the South-weſt end of them tayling upwards.</p>
+                  <p>On the North-weſt ſide of the North-eaſt end of the <hi>Weſt-barrows,</hi>
+                     <note place="margin">Bearings of this Sand.</note> is a ſmall ſwatch paſſing between them; alſo between the two <hi>Eaſt-barrows</hi> there is a ſwatch, where ſmall Veſſels that are acquainted do paſs through; both theſe Sands fall dry at low water, and are in length about four miles; the South ſide of theſe two Sands is ſteep, the North-weſt more bolder, yet ſomething ſteep. The North-eaſt end of theſe doth bear from the <hi>Naze</hi> South by Eaſt, ten miles diſtant. The Channel be<g ref="char:EOLhyphen"/>twixt this and the <hi>Heaps,</hi> is a mile broad, in which you have 7, 8, 9, and 10 fathom water; and in one place a croſs Ridge lies thwart the Channel, where there is but two and three fathoms.</p>
+               </div>
+               <div type="section">
+                  <head>Weſt-Barrows.</head>
+                  <p>The <hi>Weſt-Barrows</hi> is the South-weſt part of the whole <hi>Barrows-ſand,</hi> there being ſome Swatches two third parts down to the North-eaſtwards that divides this Sand, which makes it to be called the <hi>Eaſt</hi> and <hi>Weſt-Barrows.</hi> That part which is called the <hi>Weſt-Bar<g ref="char:EOLhyphen"/>rows,</hi> begins at the North-eaſt end of the <hi>Mouſe,</hi> and lyeth down N. E. and S. W. it falls dry in ſeveral places at low water, and is ſteep too on both ſides; on the South-eaſt ſide there is ſeven and eight fathom cloſe to the Sand; but on the North-weſt ſide, you have 10, 11, and 12 fathom cloſe to it. This Sand is in length 6 or 7 miles, and betwixt it and the <hi>Shivering-ſand,</hi> you have in the middle 9, 10, and 11 fathom; this Sand dries in ſeveral places. Amongſt all theſe Sands it flows South by Eaſt.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>Mouſe.</hi>
+                  </head>
+                  <p>The <hi>Mouſe</hi> is a Sand that lyeth from the body of the <hi>Oaze-edge,</hi> North-eaſt about a mile; between them is a Channel, where is 7 or 8 fathom water, and lower down to the Eaſtward there is 9 or 10 fathom. This Sand is between three or four miles in length, and half a mile in breadth, being ſteep too on both ſides; it lies in length E. N. E. and W. S. W. and joyns to the <hi>Weſt-Barrows,</hi> (onely a ſmall Swatch runneth between them) the North-eaſt end of this Sand beareth N.N.W. two miles and a half from the South-weſt end of the <hi>Shivering-ſand.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Directions for Sayling into all the Harbours on the Eaſt Coaſt of <hi>England,</hi> from the <hi>Downs</hi> to <hi>Flambrough-Head;</hi> Shewing the Marks for bring<g ref="char:EOLhyphen"/>ing a Ship to an Anchor in any of the Roads and Harbours on the ſaid Coaſt: The Depth and Soundings amongſt the Sands.</head>
+               <div type="section">
+                  <head>Directions for the Mouth of the River.</head>
+                  <p>FRom the Point of the <hi>Hope,</hi> called <hi>Sands-head-Point,</hi> down as far as the <hi>Iſle of Sheppy,</hi> the Reach lyeth Eaſt and Weſt: A little below <hi>Sands-head-Point,</hi> is <hi>Cliff-Creek;</hi> and between this Creek and that Point, lyeth <hi>Blyth-ſand,</hi> which lyeth cloſe by the ſhore, whereon is but ſeven foot at low-water: Right againſt <hi>Cliff-Creek,</hi> lyeth <hi>Shell-Haven</hi> on the North ſide, and a little below that lyeth <hi>Hull-Haven;</hi> about a Cables length from the ſhore lyeth Rocks, cal<g ref="char:EOLhyphen"/>led <hi>Hull-Haven-Scars,</hi>
+                     <note place="margin">Hull-Ha<g ref="char:EOLhyphen"/>ven-Scarrs</note> which are very dangerous, for a Ship that draweth but twelve foot water hath been a<g ref="char:EOLhyphen"/>ground on them. A mile to the eaſtwards of theſe Rocks, is the entrance into <hi>Lee-Swatch;</hi> the Channel going into <hi>Lee,</hi> is at the eaſtermoſt part of the Sand be<g ref="char:EOLhyphen"/>tween the Marſh-Point and it. A mile below this en<g ref="char:EOLhyphen"/>trance into <hi>Lee,</hi> right againſt which Town is a low Iſland,
+<note place="margin">Canvey-Iſland.</note> called <hi>Canvey;</hi> and from the eaſtermoſt Point runneth off a Sand four miles in length: There is alſo a Sand called the <hi>Chapman,</hi>
+                     <note place="margin">Chapman.</note> lyeth far from the ſhore, and is ſteep too, for cloſe by it you will have ſeven fa<g ref="char:EOLhyphen"/>thom water, and the next caſt a-ground; and to the eaſtward of the <hi>Chapman,</hi> lyeth a ſmooth Sand which is dry at low-water; and between this Sand and the Kentiſh-ſhore, there are two Middle-grounds, which do tayl down from <hi>Shooberry</hi> to the <hi>Whitaker,</hi> and there is no riding for a Ship that draweth 17, 18, or 19 foot water. From between <hi>Shooberry-neſs</hi> and the <hi>Nower,</hi> and ſo down to <hi>Black-tayl,</hi> there lyeth a Sand called the <hi>Warp,</hi>
+                     <note place="margin">Warp.</note> whereon there is not above three fathom and a half, or four fathom at low-water; on the ſou<g ref="char:EOLhyphen"/>thermoſt ſide, right againſt <hi>Shooberry-neſs,</hi> is a Sand called the <hi>Nower,</hi> whereon is a Buoy, which is right againſt the <hi>Weſt-ſwayl,</hi> coming out of the Waters of the <hi>Medway,</hi> which lyeth between the Iſle of <hi>Grean</hi> and the Iſſe of <hi>Sheppy.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions for ſayling from</hi> Tilbury-Hope <hi>down to the Buoy of the</hi> Nower.</head>
+                  <p>When you break ground from <hi>Tilbury-Hope,</hi> if the wind be ſoutherly, keep the South ſhore cloſe aboard, but be careful of <hi>Blyth ſand,</hi>
+                     <note place="margin">Blyth-ſand</note> which lyeth cloſe to the South-ſhore; and accordingly obſerve theſe marks to carry you clear of it; keep the Steeple of <hi>Tilbury</hi>-Church a great Sayls breadth without <hi>Sands-head-Point;</hi> or if it be in the Night, or haſey weather, keep your Lead, and come not within five fathom at low-water, and ſeven fathom at high-water, on the South-ſide, and that depth will carry you clear without the Sand; and thoſe depths will lead you down to the <hi>Nower-head.</hi>
+                     <note place="margin">Nower<g ref="char:EOLhyphen"/>head.</note> But if the wind be northerly, then you muſt keep the North-ſhore, which is ſteep too, until you come as low as <hi>Hull-Haven;</hi> and ſo keeping the Soundings afore<g ref="char:EOLhyphen"/>ſaid, you may come down to the <hi>Nower;</hi> and if you pleaſe, you may come to an anchor at the Eaſt end of the <hi>Nower.</hi> And that you may know how to anchor clear of the Sand, bring <hi>Prickelwel</hi>-ſteeple a Sayles breadth to the eaſtward of the Wood that is on the North-ſhore by the water-ſide, and there you may come to an anchor.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions to ſayl from the</hi> Nower <hi>to the northward through the</hi> Swin.</head>
+                  <p>From the tayl of the <hi>Nower,</hi> or thwart of <hi>Shooberry<g ref="char:EOLhyphen"/>neſs,</hi> to the <hi>Black-tayl,</hi> the courſe is E. N. E.
+<note place="margin">Black-tayl</note> but if
+<pb n="14" facs="tcp:151324:9"/>the wind be weſterly, you may keep along the <hi>Eſſex</hi>-ſhore, and you may wear off and on the Sand, in ſix or ſeven fathom water; or keep the Hill to the weſtward of <hi>Bemfiet,</hi> open of <hi>Hadly-Land</hi> above <hi>Lee,</hi> and that Mark will lead you down to <hi>Black-tayl.</hi>
+                  </p>
+                  <p>Thwart Marks for the <hi>Black-tayl,</hi> are the tuft of Trees upon the <hi>Kentiſh</hi>-ſhore, called <hi>Challock-Trees;</hi> right over the Iſle of <hi>Sheppy,</hi> commonly called the <hi>Lands-end,</hi> from the <hi>Black-tayl</hi> to the <hi>Shoo beacon,</hi> the courſe is North-eaſt, and you may borrow off and on upon the Sand, in 6, 7, or 8 fathom water, until you come to the <hi>Shoo-beacon,</hi> for there it is deeper, and ſteep to the Land.
+<note place="margin">Shoo-hole.</note> This Deep is called the <hi>Shoo-hole,</hi> where you ſhall have 10, 11, 12, or 13 fathom, accord<g ref="char:EOLhyphen"/>ing as the Tyde is; by which depth you may know where you are, and the Hole is not above half a mile in length: Right againſt the <hi>Shoo-beacon,</hi> the tayl of the <hi>Eaſt-barrows-head,</hi>
+                     <note place="margin">Eaſt-Bar<g ref="char:EOLhyphen"/>row-head.</note> extends from the eaſtwards very far, ſo that the Channel is narroweſt in that place, and is not a mile over.</p>
+                  <p>From the <hi>Shooe</hi> to the <hi>Whitaker-beacon,</hi> the courſe is N. N. E. if the wind be weſterly, you may borrow upon the Sand in ſix or ſeven fathom; and when you are right thwart of the <hi>Whitaker-beacon,</hi> the Mouth of <hi>Bornam-water</hi> will be directly weſt from you, and the ſpire Steeple, that is three miles to the northward of <hi>Bornam,</hi> will bear North-weſt, half northerly. From the <hi>Whitaker</hi> to the Buoy of the <hi>Buxey,</hi>
+                     <note place="margin">Buoy of the Buxey.</note> or the entering in of the <hi>Spit,</hi> the courſe is North by Eaſt about 5 miles; you may borrow upon this Sand, in five, ſix, or ſeven fathom, which will carry you clear within two middle Grounds that lyeth between you and the <hi>Eaſt-barrows;</hi> on the weſtermoſt middle Ground, there is ten foot at low-water; but on the eaſtermoſt, there is not ſo much, for in ſome places it is almoſt dry: At the South end of this Middle-ground, there lyeth a Buoy, which is almoſt a mile below the <hi>Whitaker-beacon;</hi>
+                     <note place="margin">Whitaker-Beacon.</note> if the wind be <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſterly, you muſt be careful to give the Buoy a Birth, for the tayl of that Sand is flat, and tayleth over towards the <hi>Whitaker,</hi> (being to the North-weſt of this Buoy) then edge over to the eaſtward, and you ſhall have the deepeſt water toward that Sand, about ſeven, eight, or nine fathom, according as the Tyde is; this Sand is ſteep alſo, ſo that if the wind be northerly, that you are forced to run down, ſtand not over to that Sand, until your water ſhoal, for you ſhall have eight or nine fathom, and the next caſt aground, but you may ſtand over to the weſtward Middle-ground into five or ſix fathom; the North end of the eaſtermoſt Middle<g ref="char:EOLhyphen"/>ground,
+<note place="margin">Eaſt-Bar<g ref="char:EOLhyphen"/>row-head.</note> doth tayl or joyn to the <hi>Eaſt-barrow-head,</hi> and there it is flat, with a Tayl a good length over to the northwards: The North-eaſt Flat lyeth near North<g ref="char:EOLhyphen"/>weſt from the Buoy of the <hi>Buxey,</hi> and then the Trees on the North ſide do bear North-weſt from you.</p>
+                  <p>When you are thwart of the Buoy of the <hi>Spits</hi> and <hi>Buxey,</hi>
+                     <note place="margin">Spits and Buxey.</note> you may ſteer out N.E. by Eaſt, down the <hi>Kings-Channel;</hi> or, if the Wind will give you leave, to borrow upon the <hi>Gunfleet</hi> in 7 or 8 fathom water, then that depth will lead you down to the Buoy at the Eaſt end of the <hi>Gunfleet.</hi>
+                  </p>
+                  <p>Alſo by this means you ſhall be ſure to keep clear of the Middle-ground that lyeth between the <hi>Gunfleet</hi> and the eaſtward Sand, which is called the <hi>Heaps,</hi> which at low-water hath but ten foot in ſome places. This Middle-ground reacheth a great length; when you are at the South end of it, the <hi>Naze-land</hi> will bear North from you, and <hi>Orford-neſs</hi> N. N. E. When you are at the North-eaſt end of this Sand, then you will be thwart of the Buoy on the North end of the <hi>Gunfleet,</hi> and <hi>Harwich</hi>-Church will be open and ſhut of <hi>Harwich</hi>-Cliff; from whence, if you be bound for the <hi>North-Foreland,</hi> you may ſteer E. N. E. and Eaſt by North, till you bring the <hi>Naze-land</hi> to bear W. N. W. from you, and then you may be ſure you are northward of the tayl of the <hi>Sonk;</hi> but if the wind be ſoutherly, bor<g ref="char:EOLhyphen"/>row cloſe aboard the tayl of the <hi>Sonk.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Other directions for the</hi> Swin, <hi>and ſo through the</hi> Kings-Channel <hi>to<g ref="char:EOLhyphen"/>wards the</hi> Downs.</head>
+                  <p>When you come down as low as the <hi>Whitaker,</hi> then take heed and keep the ſhoaling thereof, until you are two miles below it;
+<note place="margin">Middle-Ground.</note> then you come to the ſhoaling of the Middle-ground, which is ſteep too; for if you do turn down, you muſt about when you come to ten fa<g ref="char:EOLhyphen"/>thom water, becauſe it is narrow; and ſo the ſhoaling of the Middle-ground doth continue till you come down as low as the Buoy of the <hi>Spits:</hi>
+                     <note place="margin">Buoy of the Spits.</note> The Channel begins to be broader, and if the Wind be ſo that you muſt turn, be ſure to keep hold of the <hi>Gunfleet;</hi>
+                     <note place="margin">Gunfleet.</note> but if the wind be fair that you may lead it, run down in the ſhoaling of the <hi>Gunfleet,</hi> till you bring the <hi>Naze</hi> N. N. W. and then go thence North-eaſt by Eaſt alſo, that it will lead you clear of the <hi>Sonk;</hi> and go ſtill that courſe, till you have brought the <hi>Naze-land</hi> W. N. W. or Weſt by North. The <hi>Sonk</hi> doth lie from the <hi>Naze</hi> North-eaſt and South-weſt; ſo that if you bring the <hi>Naze-land</hi> to lie Weſt by North, you may be bold to go a more eaſterly courſe, until you come to 16 or 18 fathom; for 14 or 15 fathom will go hard by the <hi>Kentiſh-Knock.</hi> Note alſo that you may ſee the Trees over the <hi>Naze,</hi> when you cannot ſee the <hi>Naze.</hi>
+                  </p>
+                  <p>The <hi>Kentiſh-Knock</hi> doth lie from the <hi>Long-ſand-head,</hi>
+                     <note place="margin">Kentiſh-Knock. Long<g ref="char:EOLhyphen"/>ſand-head.</note> three or four miles E. S. E. And when you have the aforeſaid ſixteen fathom, then you may judge the <hi>Naze-Land</hi> to be W. N. W. or Weſt by North; then go thence S. S. W. upon an Ebb, and upon a flood South, or S.S.E. as the Wind is, or the weakneſs of the Tyde, ſo muſt you work, and that will carry you clear with the <hi>North-Foreland;</hi> and if you go about the <hi>North-ſand-head,</hi> or about all, or the <hi>Goodwin,</hi> then you muſt keep more eaſterly; and note,
+<note place="margin">North-ſand-head.</note> that the <hi>North-ſand-head</hi> and the <hi>Long-ſand-head,</hi> lyeth South and North, and the <hi>Kentiſh-Knock</hi> lyeth from the <hi>North-foreland</hi> North by Eaſt, and South by Weſt; there is nothing between <hi>Marget-ſand</hi> and the <hi>North-foreland,</hi> and therefore you need not fear: And as I ſaid before, to go about the <hi>Goodwin,</hi> run off till you come to 26 or 30 fathom, for 18 or 20 fathom goeth near the Sand; and ſo run in this depth until you have brought the Land of <hi>Dover</hi> open of the <hi>South-foreland,</hi> then you may be bold to hale in with the <hi>Foreland;</hi> there is nothing between the <hi>Good<g ref="char:EOLhyphen"/>win,</hi> and <hi>Marget-ſand,</hi> or <hi>North-foreland</hi> to fear.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl unto</hi> Cowen <hi>and</hi> Malden-Water.</head>
+                  <p>When you are at the Buoy of the <hi>Spits,</hi>
+                     <note place="margin">Spits.</note> your courſe is W. N. W. in 4 or 5 fathom, as the Wind ſerves, for the Ebb ſetteth upon a Shoal that lyeth to the Eaſt<g ref="char:EOLhyphen"/>ward, called the <hi>Eagle;</hi>
+                     <note place="margin">Eagle.</note> and the Tyde of Flood ſet<g ref="char:EOLhyphen"/>teth on a Shoal, called the <hi>Knowl,</hi> and is to the weſt<g ref="char:EOLhyphen"/>ward of your going in; and you may run down to the ſouthward, borrowing in five fathom upon the Main, until you bring <hi>Banbury-land</hi> (which is the high Land that lies above <hi>Malden</hi>) a Sayls breadth open with <hi>Brad<g ref="char:EOLhyphen"/>well-point,</hi> (which Mark will bring you between the <hi>Eagle</hi> and the <hi>Knowl</hi>) and run with theſe marks until you bring a ſteeple that ſtands on the North-ſhore, open of the red Cliffs end; and ſo run with theſe marks open and ſhut, North up,
+<note place="margin">Marzey-Block-Houſe.</note> until you come to <hi>Marzey</hi>-Block-houſe, and there you may come to an anchor in ſix or ſeven fathom water.</p>
+               </div>
+               <div type="section">
+                  <pb n="15" facs="tcp:151324:9"/>
+                  <head>
+                     <hi>Directions to ſayl into</hi> Harwich <hi>coming from the ſouthwards.</hi>
+                  </head>
+                  <p>If you come from the ſouthward, keep <hi>Harwich</hi>-ſteeple open a good Birth off the Cliff-end, and on the North end, keep <hi>Farberry</hi>-Clifts open of the Beach on the Eaſt ſide; and ſo you may go in, bearing cloſe by the Beach for fear of the <hi>Altar,</hi>
+                     <note place="margin">Altar.</note> which lies within a Ca<g ref="char:EOLhyphen"/>bles length of the Beach; and ſo you may go along clear, keeping by the Beach, till you come to the <hi>Wore-bore-head,</hi> and then you may ſteer up with <hi>Ipſwich-water,</hi> and anchor with <hi>Harwich</hi> S. S. W. in five or ſix fathom water; and the higher up, the better ground, till you bring the Town South of you.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Other Directions for</hi> Harwich <hi>coming from the Northwards.</hi>
+                  </head>
+                  <p>When you come from the northward, and are ſhot paſt the <hi>Whiting</hi> as far as <hi>Bawdſey-Cliff,</hi> keep <hi>Orford</hi>-Church and Caſtle open of the Cliff, and that will car<g ref="char:EOLhyphen"/>ry you clear of the <hi>Andrews;</hi> and then when you ſee the Light-houſes, bring them one into another, and get into four or five fathom water, or ſomewhat more towards high-water, then run in about by the Point: The Channel lyeth in due North, but in the midſt of the Havens lyeth a ſunken Rock, called the <hi>Altar,</hi> which you muſt avoid, by ſayling on either ſide, by one Shore or the other, but along by the Eaſt-ſhore is beſt; being within it, you cannot ſayl amiſs, or take hurt, except you run againſt the ſhore: There you may anchor all over where you pleaſe, before the Town, in 4, 5, 6, or 7 fathom-water; or you may go further into the Bight, for it is every where clean.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Other directions to ſayl into</hi> Harwich.</head>
+                  <p>The Mark in this Channel, to ſayl into <hi>Harwich,</hi> is to keep the top of <hi>Harwich</hi>-ſteeple half way betwixt the Fire-beacon on <hi>Harwich,</hi> and the North end of the Cliff, or the lower Light-houſe, a little open of the North end of <hi>Harwich</hi>-Cliff, and ſo ſayl in N. N. W. keeping thoſe marks ſo, till you come within half a mile of <hi>Harwich</hi>-Cliff; then bear to the North-eaſtwards ſo far, till you bring the body of the Church open to the northwards of the Cliff, then edge toward <hi>Land-guard-Fort,</hi> till you bring both the Light-houſes in one; then run in with them ſo, till you ſee your ſelf within the South Point of the <hi>Andrews,</hi> which you ſhall know, by having <hi>Bawdſey</hi>-Church open and ſhut on the Land to the Southwards of <hi>Bawdſey;</hi> or if there be any Sea or half-tyde, the <hi>Andrews</hi> is plain to be ſeen; then you muſt edge near to the Beach where the Fort ſtands, to ſhun the <hi>Altar,</hi> another Shoal that lyeth directly againſt the Fort.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl out of</hi> Harwich.</head>
+                  <p>In the North-Channel you may ſayl out, as is before deſcribed in the going in, till you come without the Fort; then bring the two Light-houſes into one, and ſo ſayl out, till you bring the ſteeple open of the Land to the ſouthward of <hi>Bawdſey</hi>-Cliff, then are you clear of the <hi>Andrews</hi> and <hi>Ridge;</hi> then ſteer North-eaſt by Eaſt, until you bring <hi>Harwich</hi>-Church on the North ſide of a black Houſe, called the <hi>Brew-houſe,</hi> which ſtands a little to the northward of <hi>Land-guard-Fort,</hi> keeping them Marks ſo ſtanding, until you bring <hi>Bawdſey</hi>-Church open a little to the northward of the North end of <hi>Bawdſey</hi>-Cliff, then are you open of the <hi>Sledway.</hi>
+                  </p>
+                  <p>Between <hi>Alborough</hi> and <hi>Dunwich,</hi> half way, lyeth a Wood, which is high at both ends, and the midſt low, in form of a Saddle; this you ſhall commonly ſee firſt, when you fall with the Land thereabouts, and is the beſt to know the Coaſt by, for the Land without, and to the ſouthwards, is very low, and ſhingly ground; about two leagues to the ſouthward of <hi>Alborough,</hi> lyeth <hi>Orfordneſs;</hi> between them both there ſtandeth two Woods, which ſheweth at a diſtance like Caſtles and Towers; on <hi>Orfordneſs</hi> ſtandeth a flat ſteeple, and a broad Caſtle, which hath alſo a thick flat ſteeple, almoſt in faſhion like the ſteeple of <hi>Ranop,</hi> open above, with Holes in it like Bell-holes; before <hi>Dunwich</hi> you may anchor; there is good lying in eight or nine fathom water, ſomewhat ſoft ground: Before <hi>Alborough</hi> is the beſt Road of all the Coaſt thereabouts, in ſix or ſeven fathom.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To know</hi> Bawdſey, Oaſly, <hi>and</hi> Al<g ref="char:EOLhyphen"/>terton-<hi>Churches.</hi>
+                  </head>
+                  <p>
+                     <hi>Bawdſey</hi>-Church is the higheſt and biggeſt ſteeple, being flat at top as the others are; it ſtands to the ſouth<g ref="char:EOLhyphen"/>wards of all the reſt, a mile from the Shore.</p>
+                  <p>
+                     <hi>Oaſly</hi>-Church hath a flat large ſteeple, but is lower than the other two, and ſtands a mile to the northwards of <hi>Bawdſey</hi>-ſteeple, three quarters of a mile from the Sea.</p>
+                  <p>
+                     <hi>Alterton</hi>-ſteeple ſtands to the northwards of <hi>Oaſly</hi>-Church a mile and a half; it is a very high ſquare ſtee<g ref="char:EOLhyphen"/>ple, but much ſmaller than the other two, and ſtands about a mile from the Sea.</p>
+                  <p>Some ſay that <hi>Oaſly</hi>-Church is the northermoſt of the three; and if you keep <hi>Alterton</hi>-Church (the mid<g ref="char:EOLhyphen"/>dle of the three) open to the northward of <hi>Bawdſey</hi>-Church a ſayls breadth, you may run out clear of the <hi>Weſt-Rocks.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl out of the</hi> Sledway <hi>to the</hi> North-Foreland.</head>
+                  <p>Firſt, Bring the North end of <hi>Bawdſey-Cliff</hi> North-Weſt from you, then ſhall you ſee a flat ſteeple right with a Cliff, which you muſt keep on, or a little open of the Cliff-end, until you bring <hi>Beamont</hi>-Tree on the <hi>Naze-land</hi> W. N. W. and then you may ſteer South-Eaſt, or South-eaſt by South, if the Wind ſerves, having not leſs water than ſeven or eight fathom; and when you have laid the Netherland to water, you may ſound for the <hi>Kentiſh-Knock,</hi> and come no nearer it thau eight or nine fathom, as the Wind and Tyde ſerves; and being about the <hi>Knock,</hi> you may go S. S. W. as you ſee occaſion.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl out at the back-ſide of the</hi> Gunfleet.</head>
+                  <p>If you will ſayl out at the back-ſide of the <hi>Gun<g ref="char:EOLhyphen"/>fleet,</hi> being in the Sleds in ſeven fathom, borrow on the <hi>Weſt-Rocks</hi> in four or five fathom, ſteering S. S. W. or South-weſt by Weſt; but go not to the ſouthwards of five fathoms, till you be over the tayl of the Rocks; and when you are over the Rocks, you ſhall have 7 or 8 fathom; but go not without 8 fathom on the Weſt ſide, and borrow on the <hi>Gunfleet</hi> in 6 or 7 fathom, go<g ref="char:EOLhyphen"/>ing S. W. by South, or S. W. till you come up to the <hi>Spits,</hi> or as you ſee occaſion.</p>
+               </div>
+               <div type="section">
+                  <pb n="16" facs="tcp:151324:10"/>
+                  <head>
+                     <hi>To ſayl by the</hi> Naze <hi>to the Northwards.</hi>
+                  </head>
+                  <p>From the <hi>Eagle</hi> to the <hi>Naze,</hi> you may borrow to the ſhore, and the courſe is N. E. by North, or N. N. E. To go by the <hi>Naze,</hi> you muſt bring <hi>Harwich</hi>-ſteeple unto the Eaſt part of the Saddle in the Cliff-end; be ſure you ſhut not St. <hi>Hellen</hi> into the <hi>Naze,</hi> before you bring the Steeple into the Saddle; and ſo you may ſteer with the Steeple, until you bring the Dove-houſe with the <hi>Naze;</hi> or the <hi>Naze</hi>-end unto a Tree on the lower end of the Hedge-row that is to the ſouthward of the Houſe; and being in one, then may you have your other marks, and ſteer to the eaſtward, keeping the Houſe and Tree in one; and more to the ſouth<g ref="char:EOLhyphen"/>ward of the Hedge-row, in the lower end of the Field, a ſtones caſt from the Hedge, is a lively Tree, or great Buſh, which you may bring into a Tree, between two high Trees, that are to the ſouthward of the Houſe; and theſe marks you may keep in one, ſteering North-eaſt by North, keeping <hi>Harwich</hi>-ſteeple open of the Eaſt end of the Cliff, and then you may bear in with the Harbour; but the beſt water is when the Steeple is on the Hommock, between the Beacon and the Cliff, and ſo ſteer to the northwards as you pleaſe.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl clear of</hi> Alborough-Knapes.</head>
+                  <p>Eaſt from <hi>Alborough,</hi> two leagues, lyeth <hi>Alborough-Knapes,</hi> which is a Sand that at low-water is not deeper than ſeven or eight foot; you may ſound round about it in five fathom, but it is not good to come nearer with Sea-winds; you may diſcern it plainly by the breaking of the Sea; but with northerly and weſterly winds, the Sea breaks not at all upon it, if it be fair weather: he that runneth by it to the northwards with an Ebb, ſhall ſee it ripple much upon it, likewiſe upon moſt of the Engliſh Banks; and indeed not upon the Banks, but a<g ref="char:EOLhyphen"/>gainſt them, for upon the ſhoaleſt of them is alwayes the ſmootheſt water, as experience teacheth every where: When-as <hi>Alborough</hi> is Weſt from you, and the two Steeples of <hi>Orfordneſs</hi> one in the other, there you ſhall find <hi>Alborough-Knapes.</hi> Theſe are ſure marks of that Sand.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl to the weſtward of the</hi> Whiting-Sand.</head>
+                  <p>The <hi>Whiting</hi> is ſomewhat a ſmall long Sand lying to the ſouthward of <hi>Orfordneſs,</hi> and the ſhingly ground to the ſouthward of <hi>Alborough,</hi> lyeth alongſt the Reach, but the South end lyeth further from Land than the North end; there is not above ſix or ſeven foot water upon it at low-water: Coming from the northward, men moſt commonly ſayl to the weſtward of it, that is, through between the Land and the <hi>Whiting,</hi> towards the <hi>Naze;</hi> Men may alſo ſayl along to the eaſtward of it, through between the <hi>Whiting</hi> and the eaſtermoſt points of <hi>Bawdſey-ſand;</hi> the North end of the <hi>Whiting</hi> lyeth near the Shore, and lyeth from the Steeple of <hi>Orfordneſs</hi> S. W. by South; it is ſo exceeding ſteep and ſharp, that at one caſt you have 9 fathom, and the next but five, and then you are but a Ships length from it; and before you can heave the Lead again, you ſhall be upon it; when you ſit with the Fore-ſhip againſt it, you have 5 or 6 fathom at Stern.</p>
+                  <p>Alongſt the inward ſide it is alſo every where ſo ſteep that you cannot ſound it; but on the out-ſide you may run alongſt by it in 5 fathom, till you come with<g ref="char:EOLhyphen"/>in the Sands. When you come from the northwards, and will ſayl through within the <hi>Whiting,</hi> you muſt run cloſe alongſt by the Shore, and South-weſt about by the Point of the Shingle, to the ſouthward of <hi>Albo<g ref="char:EOLhyphen"/>rough,</hi> until you come within the North Point of the <hi>Whiting.</hi> When the Steeples of <hi>Orfordneſs</hi> come to the N. W. by North from you, then you are right thwart of the North Point of the <hi>Whiting;</hi> being within it, go again more ſoutherly, <hi>(viz.)</hi> S. W. by South, towards <hi>Barzey-Cliff.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To run in to the Eaſtward of the</hi> Whiting.</head>
+                  <p>Bring the Steeple of <hi>Bawdſey</hi> W. S. W. from you, and ſo ſayl in right with it until you come by the <hi>Whi<g ref="char:EOLhyphen"/>ting</hi> in 5 or 6 fathom; and lead it in ſo by it upon the Lead, until you come by <hi>Bawdſey,</hi> or can get deeper water.</p>
+                  <p>When you come near <hi>Bawdſey,</hi> whether you come in from the northward or ſouthward of the <hi>Whiting,</hi> you muſt keep ſomewhat off from the Shore, becauſe of a ſmall tayl that ſhooteth off from the Shore, thwart of <hi>Bawdſey-Cliff,</hi> which you muſt avord with Ships of great draught, for there remaineth upon it, at low-water, no more than two fathom; you may perceive it well by the ripling of the Tyde moſt commonly.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions from the Buoy of the</hi> Buxey <hi>down to the</hi> Kings-Channel, <hi>and from thence to the Northwards.</hi>
+                  </head>
+                  <p>When you are at the North end of the <hi>Gunfleet,</hi> or thwart of the Buoys, in ten or twelve fathom, if you be bound to Sea for <hi>Norway, Eaſt-land, Hambrough, Holland,</hi> &amp;c. Steer out N. E. by Eaſt, and E. N. E. until you come to twenty fathom water, then you are clear of all, and direct your courſe to the place you are bound: But if you are bound for the North Coaſt of <hi>England,</hi> and would hale in for <hi>Yarmouth</hi>-Road, then from the Buoy of the <hi>Buxey,</hi> ſteer North-eaſt by Eaſt, until you have brought <hi>Bawdſey</hi>-Cliff to bear from you North-weſt by Weſt; then you may borrow upon the <hi>Shipwaſh</hi> in ten or eleven fathom; or ſteer away North-Eaſt by North, and North-eaſt, until you come to bring <hi>Alborough</hi>-Church to bear from you North-weſt; then bear in with it N. N. W. till you come to nine or ten fathom upon the Shore, and that will bring you within the Sand called <hi>Alborough-Knapes,</hi> on which there is 10 or 11 foot at low-water, but there is 17 or 18 fathom between that and the ſhore.</p>
+                  <p>The thwart Marks for the South end of it, is <hi>Albo<g ref="char:EOLhyphen"/>rough</hi>-Church W. N. W. for the North end of it, the ſame Church W.S.W.</p>
+                  <p>The longſt Mark for it, is <hi>Orford</hi> Church and Caſtle one in another, going right upon it; but keeping them open, a great Sayls breadth one off another on each ſide, carrieth you clear, either without or within the Sand.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>From the</hi> Sonk <hi>to the</hi> Long-Sand, <hi>and ſo to the</hi> North-Foreland.</head>
+                  <p>When the <hi>Naze-ſand</hi> doth bear North-weſt by Weſt, you may hale up Eaſt, and Eaſt by South, and E. S. E. being careful to keep the Lead, and to look out for the ripling of the Sand, and bear off and on from it in ſe<g ref="char:EOLhyphen"/>ven or eight fathom; and being below that in eleven fathom, then if you have a Neap-tyde, you may ſteer for the <hi>Long-ſand-head;</hi> but with a Flood, and an Eaſt wind, or northerly wind, you may ſteer E. S. E. or South-eaſt, till you come to 14 or 15 fathom, dirty owſey Ground; then ſteer S. S. E. for a good diſtance, for you have Pits of 20 fathom, and 14 or 15 fathom; but having a continuing depthing of 18, 19, 20, or 21
+<pb n="17" facs="tcp:151324:10"/>fathom, and ſtony ground, then you may aſſure your ſelf that you are without the <hi>Long-ſand,</hi> and may ſteer S.S.W. with the <hi>Foreland,</hi> and S. W. by South.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl alongſt the Coaſt by</hi> Albo<g ref="char:EOLhyphen"/>rough, Dunwich, <hi>and</hi> Covehith.</head>
+                  <p>The Coaſt lyeth North by Eaſt, ſomewhat eaſterly, and South by Weſt, ſomewhat weſterly; from <hi>Covehith</hi> to <hi>Leyſtaff,</hi> North and South, two leagues. Between <hi>Dunwich</hi> and <hi>Covehith</hi> lyeth the Haven of <hi>Southworld,</hi>
+                     <note place="margin">South<g ref="char:EOLhyphen"/>wold.</note> which is a ſmall Creek; and a little within it, divideth it ſelf into three parts; upon the northermoſt Arm ly<g ref="char:EOLhyphen"/>eth <hi>Southwold,</hi>
+                     <note place="margin">Dunwich. Covehith.</note> upon the middlemoſt, <hi>Walderſwick;</hi> and upon the ſouthermoſt <hi>Dunwich: Covehith</hi> hath a high ſharp ſteeple; thwart of this ſteeple lyeth a Bank not far from the Land, which falleth almoſt dry at low-water, but at half-flood you may ſayl through between the Land and it in two fathom; upon the outer-ſide it is very ſteep, ſo that you cannot come nearer it than in nine or ten fathom: When the ſteeple of <hi>Covehith</hi> is W.N.W. from you, then you are to the ſouthward of the Bank; and when the ſteeple of <hi>Covehith</hi> is South-Weſt by Weſt from you, then you are to the north<g ref="char:EOLhyphen"/>wards of it two leagues.</p>
+                  <p>To the northward of <hi>Covehith</hi> lyeth <hi>Leyſtaff,</hi>
+                     <note place="margin">Leyſtaff.</note> and two leagues to the northward of that lyeth <hi>Yarmouth;</hi> the Steeple is a high ſharp Steeple, and ſtandeth a great Muſquet-ſhot within the Land from the Houſes; ſo that in ſayling alongſt, you may bring the Steeple on both ſides of the Houſes.</p>
+                  <p>Off from <hi>Leyſtaff,</hi> beginneth the Bank called the <hi>Holms</hi> of <hi>Yarmouth,</hi>
+                     <note place="margin">Holms. Winterton</note> and lyeth along to the northward; paſt <hi>Yarmouth,</hi> until you come thwart of <hi>Winterton,</hi> there go divers Channels through them, which you may ſayl through upon divers Marks for thoſe that are there acquainted; you may ſayl within theſe Banks, off from <hi>Leyſtaff,</hi> until you are paſt <hi>Winterton.</hi>
+                  </p>
+                  <p>You may anchor in <hi>Southwold-bay</hi> in 16 fathom, near ſix miles from the ſhore, fine yellow Sand mixt with yellow Grits. The Soundings alongſt the Coaſt are 20, 19, 20, 21, 19, 18, 17, 15, 16 fathom; when <hi>Leyſtaff</hi>-Church bears Weſt by North five leagues from you, the depth of water is 18 fathom, brown Sand, with pieces of yellow ſhells; before you have ſight of the Land, your Soundings will be 25, 19, 21, 19, 18, 17, 18 fathom; at firſt white Sand mixt with red, but at laſt brown Sand, with a ſtone or two in it.</p>
+                  <p>The Sounding in the Channel is very fair, the water looketh whitiſh, ſpotted with white-water.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl within the Banks of</hi> Yarmouth.</head>
+                  <p>If you will ſayl through from before <hi>Leyſtaff</hi> within theſe Banks, then look out for the Light-houſes which ſtand by <hi>Leyſtaff,</hi> which are two little white Houſes, the one ſtandeth beneath upon the Shingles on the Sea<g ref="char:EOLhyphen"/>ſide, and the innermoſt upon a little Hommock, ſome<g ref="char:EOLhyphen"/>what farther within the Land; when you come to the ſouthward, then they ſhew themſelves to the northward of the Town, but come at laſt thwart of it. In the night there is alwayes fire on them.</p>
+                  <p>To ſayl in there alſo by night, Bring theſe foreſaid Light-houſes North-weſt by North, or ſomewhat more northerly from you, and ſayl in right with them either by Night or by Day; when the Church of <hi>Leyſtaff</hi> cometh to the ſouthward of the Town, over a Coun<g ref="char:EOLhyphen"/>trey Houſe by the water-ſide, then you come againſt the Channel, there is no more than three fathom at low-Water. Keep theſe foreſaid Light-houſes one in the other, or bring the innermoſt rather a little to the northwards of the outermoſt, to avoid a little Flat which lyeth to the South ſide of the Channel: But the Channel is indifferent wide, run in until you come a<g ref="char:EOLhyphen"/>gainſt it, in two fathom and a half, or two fathom, as near as you will or can; then go up northward alongſt by the ſhore, you ſhall then (having ſayled a l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttle to the northward) meet with a Flat, whereupon remain<g ref="char:EOLhyphen"/>eth at low-water leſs than two fathom; you muſt anchor before that Flat, with laden Ships, and ſtay for high<g ref="char:EOLhyphen"/>water; it floweth there about eight foot up and down: As ſoon as you are over the Flat, it will be five, ſix, and ſeven fathom deep; edge then to the ſhore, and ſayl towards it, and you come before the Brew-houſe; there is a Road where you may anchor in five or ſix fathom; from thence northward towards <hi>Yarmouth,</hi> alongſt the ſhore, is all over good anchoring, and good ground.</p>
+                  <p>About a mile, or ſomewhat more,
+<note place="margin">Yarmouth Haven.</note> to the ſouthward of the Town of <hi>Yarmouth,</hi> it hath two wooden Heads, you muſt ſayl in between them both, againſt the higheſt water, when the ſtrength of the Flood is ſpent; at half<g ref="char:EOLhyphen"/>flood it is dangerous, becauſe of the ſtrong Tyde which ſhall forcibly carry you into the Bight againſt the ſhore; it is alſo beſt to carry your Ship in alongſt the <hi>South-head,</hi> for there it is deepeſt: At <hi>Yarmouth,</hi> in the Road, men do commonly anchor to the northward of the Haven, right over-thwart the Town, in five, ſix, ſeven, or eight fathom: The nearer you anchor to the Sands, the deeper water you ſhall have, but all good Sand, and ſoft Ground.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl into</hi> Yarmouth-Road <hi>through the</hi> Holms.</head>
+                  <p>If you ſayl into the Road of <hi>Yarmouth,</hi> then bring the ſharp little ſteeple that ſtandeth to the Northward of <hi>Yarmouth,</hi> within the Land, over the broad Caſtle; or, bring the Mill to the North ſide of the Town: Keep theſe Marks ſo ſtanding, and go in W. N. W. you ſhall find in this Channel no leſs than 8 or 9 fathom at half<g ref="char:EOLhyphen"/>flood. This Channel is called St. <hi>Nicholas</hi>-Channel,
+<note place="margin">St. Nicho<g ref="char:EOLhyphen"/>las Chan<g ref="char:EOLhyphen"/>nel.</note> on the North ſide it is deepeſt; being come in, the Road is right before the Town, in five or ſix fathom.</p>
+                  <p>Thwart, or over againſt the Haven of <hi>Yarmouth,</hi> go<g ref="char:EOLhyphen"/>eth alſo a Channel through the <hi>Holms:</hi> To ſayl in there, coming from the Southwards, Bring the <hi>Souton</hi> over the North ſide of the Haven, between the great Tree, and that flat little Houſe or Caſtle, and ſayl in right with them, and keep theſe Marks ſo ſtanding within the <hi>Holms;</hi> within them lyeth a Flat on the Starboard<g ref="char:EOLhyphen"/>ſide, a little Northward of the Haven, called the <hi>Middle-ground;</hi> you may ſayl about on both ſides, the inner ſide in five fathom; but toward the <hi>Holms,</hi> or to<g ref="char:EOLhyphen"/>ward the eaſtward of it, in 8 or 9 fathom. From <hi>Yar<g ref="char:EOLhyphen"/>mouth</hi> to <hi>Winterton,</hi> the Coaſt lyeth North by Weſt, and North-weſt, two leagues.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl from</hi> Yarmouth <hi>through the Sands.</hi>
+                  </head>
+                  <p>If you ſayl from <hi>Yarmouth</hi> through within to the northwards, ſayl alongſt by the Land, and keep the ſounding of the ſhore in 5, 6, or 7 fathom, until you have the two Light-houſes (which ſtand a little to the northwards of <hi>Caſtor</hi>) one in the other,
+<note place="margin">Caſtor.</note> and then ſayl in right with them, either by day or night, (in the night there is fire in them) and then ſhall you run over a Flat without the Buoy, which lyeth upon the Tayl of the Sand called the <hi>Barber;</hi>
+                     <note place="margin">Barber.</note> ſayl boldly in with the a<g ref="char:EOLhyphen"/>foreſaid Light-houſes, until you come again near the ſhore in 5 or ſix fathom; being come by the ſhore, run again alongſt by it, and keep the Sounding as before, till you come before <hi>Winterton.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:151324:11"/>
+                  <head>
+                     <hi>To ſayl by</hi> Wintertonneſs.</head>
+                  <p>This <hi>Neſs</hi> formerly hath been very ſhoal and dange<g ref="char:EOLhyphen"/>rous, but now it is worn away, ſo that Ships may run between the <hi>Neſs</hi> and the <hi>Main,</hi> and you will have three fathom water at half-flood; but if you ſayl without the <hi>Neſs,</hi> there is a Channel between it and a Middle<g ref="char:EOLhyphen"/>ground; and the Marks to carry you through, are, to bring the two ſmall Light-houſes one into another, and keep the great Light-houſe South of you, ſo you will keep in the beſt of the Channel.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl from</hi> Orfordneſs <hi>to</hi> Leyſtaff <hi>through the</hi> Stamford.</head>
+                  <p>Firſt, You muſt ſteer North, and North by Eaſt, and borrow on the ſhore in ſix or ſeven fathom, until you come in the Mid-way between <hi>Alborough</hi> and <hi>Dun<g ref="char:EOLhyphen"/>wich,</hi> where you muſt give the ſhore more Birth, and come no nearer than five or ſix fathom; and ſo you may borrow on the Shore, till you come between <hi>Southwold</hi> and <hi>Covehith;</hi> and when <hi>Covehith</hi>-Church is Weſt, you are then thwart of the South end of the <hi>Bernard,</hi>
+                     <note place="margin">Bernard.</note> it lyeth North-eaſt into the Sea; and to go clear of the North-eaſt end of it, keep <hi>Southwold</hi>-ſtee<g ref="char:EOLhyphen"/>ple open of the South end of the Cliff, until you bring <hi>Leyſtaff</hi> Wind-mill open to the Northwards of the Town, there may you ſteer with the Town of <hi>Leyſtaff,</hi> keeping the Light-houſes in one, to go within the <hi>Knock;</hi> but to go without the <hi>Holm-head,</hi> keep the <hi>Knock-beacons</hi> one in another, (or if you can ſee it) keep <hi>Goulſton</hi>-ſteeple open and ſhut of the Waters-Edge and Beach-end, and ſo you may go in the beſt: Alſo upon the Ebb, if occaſion ferves, you may bor<g ref="char:EOLhyphen"/>row into four fathom of the North end of the <hi>Bernard</hi> or <hi>Newcome,</hi> (for they point both together) and having <hi>Pak<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>field</hi> Church Weſt, you may go in with the ſhore, or you may go off into 11 or 12 fathom-water as you pleaſe: And to go through the <hi>Stamford,</hi> bring the top of the Terret (on the Clock-houſe) over the white-Houſe in the midſt of the Town.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl through</hi> Yarmouth-Roads <hi>to the Northwards.</hi>
+                  </head>
+                  <p>Firſt, To turn between the <hi>Cork</hi>-Sand and the ſhore, come no nearer the Sand than five or ſix fa<g ref="char:EOLhyphen"/>thom; but on the ſhore you may borrow in four fa<g ref="char:EOLhyphen"/>thom, if need be, and ſo you may keep until you come to <hi>Caſtorneſs,</hi>
+                     <note place="margin">Caſtorneſs</note> and ſo run until the two Light-houſes be both in one; the ſhoaleſt of the <hi>Neſs</hi> is a Muſquet<g ref="char:EOLhyphen"/>ſhot to the Northwards of the Light-houſes; the <hi>Spit</hi> lyeth off the Shore, and on the <hi>Cork</hi> you may borrow into ſix fathom, and on the <hi>Holms</hi> in ten fathom, for it is all ſteep too; and the ſhoaleſt of <hi>Wintertonneſs,</hi> is when the Steeple is S. W. Being thwart of the Stee<g ref="char:EOLhyphen"/>ple, a mile off the ſhore, lyeth a Shoal, whereon is but two fathom and a half at low-water, but within or with<g ref="char:EOLhyphen"/>out there is ſix or ſeven fathom.</p>
+                  <p>Being at <hi>Haſeborough,</hi> your courſe with <hi>Flambrough<g ref="char:EOLhyphen"/>head</hi> is N. W. and S. E. as you take the Tyde, (for the Flood ſetteth over <hi>Burnham-flat,</hi> and the Ebb croſs to the Sea) and being ſo far to the N. W. as you can ſee <hi>Haſeborough</hi>-ſteeple, (which is the higheſt ſteeple on all the Coaſt, and riſeth out of the water) you ſhall have ten fathom water; and when you have it S. S. E. then <hi>Cromer</hi>-ſteeple will be S. S. W. and being in this courſe, half-way over the Well, you ſhall have ſome<g ref="char:EOLhyphen"/>times 7 or 8 fathom, and ſometimes more. From <hi>Flambrough-head</hi> to <hi>New-Caſile,</hi> the courſe is N. W. or W. N. W. but if you keep the ſhore, the courſe is more northerly.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions for St.</hi> Nicholas-Gat <hi>and</hi> Yarmouth-Road.</head>
+                  <p>From <hi>Alborough-bay,</hi> your courſe to <hi>Yarmouth-ſands</hi> is North by Eaſt; and when you are thwart the South end of <hi>Holm-head,</hi> you ſhall have 17 or 18 fathom wa<g ref="char:EOLhyphen"/>ter, which is directly thwart of <hi>Leyſtaff;</hi> and being paſt that, you may borrow upon the Sand in 7, 8, or 9 fathom water, until you have brought <hi>Goulſton</hi>-ſteeple, which is the Southermoſt ſteeple of the two, upon the North Peer of <hi>Yarmouth;</hi> and ſteer with thoſe Marks one over the other, till you come to ſix or ſeven fathom water upon the ſhore; and then bearing to the North<g ref="char:EOLhyphen"/>ward, anchor at the South end of <hi>Yarmouth,</hi> or before, as you ſhall think convenient, in 6, 7, 8, or 9 fathom water; from whence, if you are bound to the North<g ref="char:EOLhyphen"/>ward, and would go over <hi>Caſtorneſs,</hi> ſteer alongſt the ſhore in 5, 6, or 7 fathom water, and ſo alongſt the back of the <hi>Barber-ſand,</hi> until you have brought the Light-houſes one over another; and then bear within the Buoy of the <hi>Cockle,</hi>
+                     <note place="margin">Cockle.</note> borrowing upon the Main in 6, 5, or 4 fathom, until you come thwart of <hi>Winterton,</hi> and that depth will lead you until you come within the Middle-ground, that hath not above twelve foot wa<g ref="char:EOLhyphen"/>ter: And when you have brought <hi>Winterton</hi> Light<g ref="char:EOLhyphen"/>houſes S. S. W. from you, you may ſteer out N. N. E. until you come to 8 or 9 fathom water, and then you may be ſure you are without the <hi>Neſs,</hi> and may ſteer alongſt the Coaſt, or direct your courſe as you have the Wind.</p>
+                  <p>But if you be in <hi>Yarmouth</hi>-Road with a Ship that draweth 17 or 18 foot water, your beſt courſe is to go to the Northward, between the <hi>Cockle</hi> and <hi>Scroby.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Marks of the Channel are as follows.</head>
+                  <p>You muſt bring the Southermoſt round Tower of <hi>Yarmouth</hi> to bear with the two Southermoſt Windmills;
+<note place="margin">To ſayl between the <hi>Cockle &amp; Scroby.</hi>
+                     </note> and ſo run, until you bring the ſaid Tower open of the Mills, the breadth of the Tower; and ſo ſteer into the Northward with that Mark, which will carry you out between the two Sands.</p>
+                  <p>Alſo there is another nearer Mark, which is there<g ref="char:EOLhyphen"/>fore better, (but they come all to one) which is; The Wind-mill which ſtands on the North-weſt part of the Town, a little Sayls breadth to the Weſtward of the North-weſt Tower of <hi>Yarmouth,</hi> it ſheweth like unto a Dove-houſe; this Mark will lead to the Northwards, and you ſhall not have leſs than ſix or ſeven fathom, un<g ref="char:EOLhyphen"/>til you come to the <hi>Sea-heads,</hi> which is a Shoal that lyeth thwart between the two Sands, on which there is not above four fathom, or four fathom and a half at low-water; and when the Wind-mills come one upon another, then you enter upon the South part of the Shoal, which will continue without deepning or ſhoal<g ref="char:EOLhyphen"/>ing, until <hi>Winterton</hi>-Church and the Light-houſe be one in the other, and then you may preſently come into deeper water, and may ſteer away unto the North<g ref="char:EOLhyphen"/>ward N. W. or N. W. by Weſt, or N. W. by North, and this courſe ſhall carry you clear within the Rock that lyeth E. N. E. and W. S. W. from <hi>Winterton,</hi> on which you ſhall not find fifteen foot at low-water in ſome places.</p>
+                  <p>If you be coming from the Northward, and would go into this Channel, follow this direction: To the North-weſt of <hi>Haſeborough</hi> you ſhall ſee a low flat Church, keep that a Sayls breadth off <hi>Haſeborough-Cliff,</hi> and ſteering directly with this Mark, will bring you in<g ref="char:EOLhyphen"/>to the Channel before mentioned.</p>
+               </div>
+               <div type="section">
+                  <pb n="19" facs="tcp:151324:11"/>
+                  <head>Yarmouth-Road.</head>
+                  <p>To bring you into <hi>Yarmouth-Road,</hi> and to know the right Church, when it is open and ſhut of the Cliff of <hi>Haſeborough,</hi> is this; When <hi>Haſeborough</hi>-Church doth bear N. W. by Weſt from you, and ſteering away S. E. by Eaſt, will bring you into the Marks and Channel a<g ref="char:EOLhyphen"/>foreſaid, and within all the Over-falls that lie ſhort of <hi>Wintertonneſs.</hi> From <hi>Winterton</hi> to <hi>Haſeborough</hi>-Point, the courſe is N. W. three leagues. From <hi>Haſeborough</hi> to <hi>Cromor,</hi> the Coaſt lyeth N. W. and Weſt by North, and W. N. W. 3 or 4 leagues.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions for ſayling from the Buoy of the</hi> Nower <hi>over the</hi> Flats, <hi>and through the</hi> Narrow <hi>into the</hi> Downs.</head>
+                  <p>From the Buoy of the <hi>Nower</hi> to the Buoy of the <hi>Oaze-edge,</hi> the courſe is Eaſt, one quarter Northerly, and Weſt, one quarter Southerly, diſtant about five miles; betwixt the Buoy of the <hi>Oaze-edge,</hi> and the Buoy of the <hi>Red-ſand,</hi> lyeth a round Shoal called the <hi>Spile,</hi>
+                     <note place="margin">Spile.</note> and bears South from the Buoy of the <hi>Oaze<g ref="char:EOLhyphen"/>edge,</hi> on which ſhoal there is but ſix foot at low-water; the Buoy of the <hi>Red-ſand</hi> bears from the Buoy of the <hi>Oaze-edge,</hi> Eaſt, half Northerly, and Weſt, half ſou<g ref="char:EOLhyphen"/>therly, four miles.</p>
+                  <p>If the weather be clear, you may have a direct longſt Mark that will lead you down directly between the <hi>Oaze-edge</hi> and the <hi>Red-ſand, (viz.)</hi> you will ſee a round Tree on the Iſland <hi>Grean;</hi>
+                     <note place="margin">A mark to go between the Buoys.</note> keep that Tree in the Valley between the little Hills that are upon the High-lands, next to the Weſtermoſt end of the Iſle of <hi>Grean;</hi> and this Mark ſo kept will lead you down.</p>
+                  <p>The eaſtermoſt part of the <hi>Red-ſand</hi> lyeth out with two Tongues,
+<note place="margin">Red-ſand.</note> on the northermoſt of which is placed the Buoy.</p>
+                  <p>The Marks for the Buoy of the <hi>Red-ſand</hi> from the Land, is to bring the Lands-end of <hi>Sheppy</hi> S. W. and St. <hi>Nicholas-Wood</hi> in the <hi>Gore</hi> open of the <hi>Reculvers</hi> South-eaſt; the Channel goeth in betwixt the <hi>Oaze-edge</hi> and the <hi>Red-ſand;</hi> The depth between them is 10 and 11 fathom.</p>
+                  <p>From the Buoy of the <hi>Red-ſand</hi> to the Buoys of the <hi>Spell</hi> and <hi>Woolpack,</hi> the courſe is N. W. by Weſt, one quarter northerly, and S. E. by South, one quarter ſou<g ref="char:EOLhyphen"/>therly, over the Flats, where you will have, at low-wa<g ref="char:EOLhyphen"/>ter, on this courſe, 10 foot, and in ſomes Holes 15 or 16 foot water.</p>
+                  <p>About a quarter of a mile S. E. by South from the Eaſt end of the <hi>Spaniard</hi> lyeth the <hi>Gilman,</hi>
+                     <note place="margin">Gilman.</note> which falls dry at Spring-tydes; but if you keep the aforeſaid courſe you will not come near it.</p>
+                  <p>The Buoy of the <hi>Woolpack</hi> is the weſtermoſt Buoy in the Narrow,
+<note place="margin">Woolpack.</note> on the North ſide of the Channel, and lyeth on the Weſt Spit of the <hi>Woolpack-ſand,</hi> and bears from the <hi>Reculvers</hi>-ſteeple North by Weſt; then have you two little Hills like two Paps on the upper Land to the ſouthwards, juſt open and ſhut of the <hi>Reculvers</hi>-Steeple.</p>
+                  <p>The Buoy of the <hi>Spell</hi> lyeth on the South ſide of the Channel,
+<note place="margin">Spell.</note> a little to the Eaſtward of the Buoy of the <hi>Woolpack;</hi> betwixt theſe Buoys, the Channel is a Ca<g ref="char:EOLhyphen"/>bles length and a half broad, and but nine foot deep at low-water.</p>
+                  <p>The Buoy of the <hi>Searn</hi> is the eaſtermoſt Buoy that lyeth on the North ſide of the Channel,
+<note place="margin">Searn.</note> the Steeple of the <hi>Reculvers</hi> bearing from the ſaid Buoy South by Weſt, then have you a Wind-mill a little open of the Channel of <hi>Reculvers</hi>-Church. The courſe upwards from this Buoy through the <hi>Narrow,</hi> is W. N. W. and downwards it is E. S. E.</p>
+                  <p>The longſt Mark on the ſhore, is to bring <hi>Birching<g ref="char:EOLhyphen"/>ton</hi>-Church right over a Gaul or black Hole in the We<g ref="char:EOLhyphen"/>ſtern part of the Cliff-end.</p>
+                  <p>On the North ſide of a Channel, a little below the Buoy of the <hi>Searn,</hi>
+                     <note place="margin">Hook of Margaret-Sand.</note> ſhooteth out a Shoal from <hi>Marga<g ref="char:EOLhyphen"/>ret-Sand</hi> S. E. called the <hi>Hook;</hi> it runneth ſo far to the ſouthwards, that it maketh the Channel very narrow.</p>
+                  <p>The thwart Marks for this Sand, is to bring <hi>Birching<g ref="char:EOLhyphen"/>ton</hi>-Steeple into a great Dauk or Valley of a Cliff, then the Steeple will bear from you South-eaſt, five degrees ſoutherly; the longſt Mark, is to bring St. <hi>Peters</hi> Church upon the Weſt end of the Cliff.</p>
+                  <p>The longſt Mark to carry you clear of the <hi>Hook</hi> to the Buoy of the <hi>Searn,</hi> is to bring St. <hi>Peters</hi>-Steeple over the Eaſt ſide or Cliff of <hi>Weſtgate-bay:</hi> You muſt keep them ſo, till you bring <hi>Birchington</hi>-Steeple over the Gaul, when you take hold of that Mark to go through a little above the <hi>Hook,</hi> on the South ſide of the Channel.</p>
+                  <p>A little below the <hi>Reculvers,</hi> lyeth off a Shoal called the <hi>Horſe,</hi> on which it is very ſhoal at low-water.
+<note place="margin">Horſe.</note>
+                  </p>
+                  <p>The Marks to avoid it, Is to keep St. <hi>Peters</hi>-Steeple (on the Eaſt ſide of <hi>Weſtgate-bay</hi>) a little upon the Cliff, which Mark you may uſe either going up or down.</p>
+                  <p>Between the <hi>Hook</hi> of <hi>Margaret-ſand,</hi> and the Buoy of the <hi>Searn,</hi> is a good Road for Ships to ride in, called the <hi>Gore,</hi>
+                     <note place="margin">Gore.</note> which is uſeful for Ships when they have not wind and weather to carry them over the Flats.</p>
+                  <p>The Marks for the beſt Riding,
+<note place="margin">Marks for good an<g ref="char:EOLhyphen"/>corage.</note> Is to bring a Mill (in the midſt of a Wood) near the Sea-ſide, and St. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi>-Church, in the midſt of <hi>Weſtgate-bay,</hi> together.</p>
+                  <p>There is alſo a Shoal called the <hi>Middle-ground</hi> at the Cliff end,
+<note place="margin">Middle-Ground.</note> which lyeth a little blow the <hi>Hook</hi> near the ſhore, on the South-ſide, on which there is but four<g ref="char:EOLhyphen"/>teen foot at low-water, and on each ſide four fathom, being a ſmall narrow Ridge, and lyeth E. N. E. and W. S. W. in length three quarters of a mile.</p>
+                  <p>The Mark to keep you clear, Is to bring St. <hi>Peters</hi>-Church over the Eaſt ſide of <hi>Weſtgate-bay,</hi> or to bring the nethermoſt Tree on the next high Land (to the weſtward of the <hi>Reculvers</hi>) a little open to the ſouth<g ref="char:EOLhyphen"/>ward.</p>
+                  <p>This is alſo a good Mark for the <hi>Hook</hi> downwards, or from <hi>Marget-ſand</hi> upwards.</p>
+                  <p>
+                     <hi>Marget-ſand</hi> lyeth before <hi>Marget</hi> and <hi>Weſtgate-bay,</hi> on the North ſide of the Channel. The Eaſt end of this Sand beareth from <hi>Marget</hi>-Church, North, half weſterly.</p>
+                  <p>The Mark to go clear of the Eaſt end, Is to bring <hi>Marget</hi>-ſteeple and the Wind-mill in one.</p>
+                  <p>The Depths you have along the Sand, as you turn up and down, are at the Eaſt end, and ſo upward, 9, 8, 7, 6, 5 fathom; the greateſt part of this Sand dries at low-water.</p>
+                  <p>If you be to turn up in the Night, between the Main and <hi>Marget-ſand,</hi> you ſhall find,
+<note place="margin">Middle-grounds.</note> by keeping of your Lead, two Middle-grounds; upon the innermoſt Mid<g ref="char:EOLhyphen"/>dle-ground, you ſhall have five fathom and a half, and to the ſouthwards of it you ſhall have 6, 7, or 8 fathom, as the Tyde is high; without the inner Middle-ground you ſhall have 8, 9, or 10 fathom, and then you ſhall have 7 or 8, as the Tyde is, and without that 9 or 10 fathom; and when it comes to ſhoal again, you may be ſure it is on the Sand, and likewiſe the ſhoaling on the Main within the inner Middle-grounds; theſe Middle<g ref="char:EOLhyphen"/>grounds do reach up to the <hi>Gore;</hi> and the farther you come to the weſtwards, the ſhoaler, for they tayl unto the <hi>Searn</hi> and the <hi>Dry-ſand</hi> without it, which is called by ſome men the <hi>Girdler.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:151324:12"/>
+                  <head>
+                     <hi>The Mark to Ride in</hi> Marget-Road.</head>
+                  <p>The Mark to Ride in <hi>Marget-Road,</hi> Is to bring the Mill and Steeple together, as far off the Shoar as you pleaſe to anchor. The greateſt part of <hi>Marget-ſand</hi> dries at low-water, from <hi>Marget-Town</hi> up to the Cliff<g ref="char:EOLhyphen"/>end: Above <hi>Birchington</hi> ſpits off ſeveral ſhoal places that muſt be taken care of in turning up and down, eſpecially at high-water near <hi>Marget;</hi> ſtand no nearer the ſhoar than ſix fathom, and from <hi>Weſtgate-bay</hi> up<g ref="char:EOLhyphen"/>ward in five fathom.</p>
+                  <p>The Mark to go clear of all the Spits below <hi>Marget</hi>-Town, (that runs off the ſhore on the North ſide of <hi>Foreland</hi>) Is to keep the top of <hi>Marget</hi>-ſteeple open above the Land, and <hi>Fairneſs</hi> and <hi>Whiteneſs</hi> on the Eaſt ſide of the <hi>Foreland.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Gore.</head>
+                  <p>The <hi>Gore</hi> is a Road where Ships uſe to ride when they have not wind and weather to ſayl over the Flats. This Road is to the weſtward of the Hook of <hi>Marget</hi>-Sand, and to the eaſtwards of the Buoy of the <hi>Searn.</hi>
+                  </p>
+                  <p>The Mark for it,
+<note place="margin">Marks of the beſt Riding.</note> Is to bring the Mill on the middle of a Wood near the Sea-ſide, and St. <hi>Peters</hi>-Church in the middle of <hi>Weſtgate-bay.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Weſtgate-Bay.</head>
+                  <p>
+                     <hi>Weſtgate bay</hi> is a Road where Ships do uſe to ride, by reaſon there is more water and more drift, and bet<g ref="char:EOLhyphen"/>ter ground for Anchor-hold than is in the <hi>Gore.</hi> The Mark for it, Is to bring a Wind-mill on an old Houſe in the middle of the Bay, in 7 or 8 fathom water.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Directions to ſayl from</hi> Margaret-Road <hi>to the</hi> North-Foreland, <hi>and the Marks for both Channels in the</hi> Downs.</head>
+                  <p>From <hi>Marget,</hi> ſteer down alongſt the Shore, Eaſt, and Eaſt by North, as the Wind is, but come no near<g ref="char:EOLhyphen"/>er the Shore than in 7 or 8 fathom, for the Spit of <hi>Fairneſs</hi> lyeth far out;
+<note place="margin">Fairneſs.</note> but that depth, or keeping of <hi>Marget</hi>-Church a mans height above the Land, will carry you clear of it; when you have brought the <hi>South-Foreland</hi> and the Land of the <hi>Downs</hi> open, then if the Wind be weſterly, you may ſteer to the South<g ref="char:EOLhyphen"/>wards alongſt the Shore in 5,
+<note place="margin">Marks to come into the Downs</note> 6, or 7 fathom, as you have the Tyde under you, or your draught of water, for you ſhall find divers Banks or Overfalls, where you ſhall ſuddenly ſhoal a fathom, ſometimes more, and then deeper again; there is one that lyeth in the ſtream of five fathom and a half at low-water, on the which there is not above twenty foot: This lyeth ſomething to the northwards of <hi>Broad-ſtairs-Peer;</hi> and likewiſe ſomething to the ſouthward of <hi>Broad-ſtairs,</hi> there lyeth another in the Stream of four fathom and a half at low-water, whereon there is not above fourteen foot: Al<g ref="char:EOLhyphen"/>ſo to the ſouthward of that, right againſt a green patch that ſheweth on the upper part of the Chalk-Cliff, as if it were ſtained with Green, there is another, on which there is not above ten foot at low-water; theſe you muſt be careful to ſhun, if there be any ſtrong Tyde, they ſhew themſelves by the waſting of the wa<g ref="char:EOLhyphen"/>ter as an Overfal doth; and where it is ſmootheſt, there it is ſhoaleſt. This Sand is called the <hi>Coleburn.</hi> When you are ſo far to the ſouthward that you can ſee the red tyled Houſe of <hi>Ramſgate</hi> open of the Cliff, then you are clear of this Shoal.</p>
+                  <p>There is another Shoal to the Southwards of this,
+<note place="margin">Mark of the Brake.</note> which ſome men call the <hi>Querns.</hi> The thwart Mark for the North-head of the <hi>Brake,</hi> is St. <hi>Lawrence</hi>-Church which ſtands above <hi>Ramſgate,</hi> upon the North-Cliff of <hi>Ramſgate,</hi> one ſayls breadth, and the <hi>Querns</hi> lyeth N.N.W. from that a good Birth, with the ſaid Church, two Ships length or more upon the ſaid Cliff; ſo that when you come to have the Church but a Ships length upon the Cliff; then if you will come into the Inner-Channel, you muſt ſayl into the ſhore by your Lead; if it be thick weather, that you cannot ſee your leading Mark, <hi>(viz.)</hi> St. <hi>Margarets</hi>-Church upon the <hi>South-Foreland,</hi> right over a Chalk-pit that ſheweth white, almoſt mid-way between <hi>Waymor</hi>-Caſtle and <hi>Deal</hi>-Caſtle; or the ſaid Church two Sayls breadth without <hi>Deal</hi>-Caſtle, and this Mark will lead you directly through between the <hi>Brakes</hi> and <hi>Querns,</hi> and ſo into the <hi>Downs:</hi>
+                     <note place="margin">Another Mark.</note> But if you cannot diſcern the afore<g ref="char:EOLhyphen"/>ſaid Marks, then there is another nearer Mark, which is <hi>Winsberry</hi>-Church, and a round Tree not far from the Church, which ſtands up in the Countrey to the South-weſtwards of <hi>Sandwich;</hi> keep that Church and Tree between the two Southermoſt Steeples of the Town of <hi>Sandwich,</hi> and this Mark will lead you di<g ref="char:EOLhyphen"/>rectly through the Inner-Channel; and if ſo be you be forced to turn through, you may ſtand to the North<g ref="char:EOLhyphen"/>wards, until you bring the Trees to the middle Church, and to the South-eaſtwards, until you bring the Steeple near unto St. <hi>Maries</hi>-Church, which is the eaſtermoſt Church of <hi>Sandwich,</hi> and ſo you may turn between the <hi>Brake</hi> and <hi>Querns.</hi>
+                  </p>
+                  <p>The thwart Mark for the North end of the <hi>Brake,</hi>
+                     <note place="margin">Thwart Mark of the Brake.</note> is as aforeſaid, St. <hi>Lawrence</hi> Church on the Point of the North-Cliff, or a Wood end open and ſhut of the Cliff next <hi>Sandwich.</hi>
+                  </p>
+                  <p>For the South end of the <hi>Querns,</hi> bring the Mill near <hi>Ramſgate</hi> to the Northward of the ſaid Peer.</p>
+                  <p>Depths in the Channel, is two and a half, three and a half, and four fathom, the nearer the <hi>Brake</hi> the deeper.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>To ſayl through the</hi> Gulls.</head>
+                  <p>The <hi>Gulls</hi> is a Channel that runs between the <hi>Good<g ref="char:EOLhyphen"/>win-ſand</hi> and the <hi>Brake;</hi> and therefore the Marks to bring you through the <hi>Downs,</hi> going to the northwards, are theſe; You muſt keep St. <hi>Margets</hi>-Church, which ſtands near the <hi>South-Foreland,</hi> on a piece of Wall that is built near the third Cliff, to the northward of the <hi>South-Foreland;</hi> Or elſe to bring the Light-houſe in the South-Swamp; which Marks will carry you through the <hi>Gulls,</hi> and in the Fair-way, between the <hi>Goodwin</hi> and the <hi>Brake,</hi> into 8, 9, and 10 fathom water; bor<g ref="char:EOLhyphen"/>row on the <hi>Brake</hi> in 7 fathom, and no nearer the <hi>Bunt<g ref="char:EOLhyphen"/>head</hi> than 10 fathom;
+<note place="margin">Bunt been</note> and between the <hi>Bunt-head</hi> and the <hi>North-ſand-head</hi> in eight fathom.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_nautical_aids">
+            <p>
+               <hi>All ſorts of Books and Inſtruments belonging to the Art of Navigation, are Made and Sold by</hi> John Seller, <hi>[the King's Hydrographer] at the ſign of the Mariners-Compaſs, at the</hi> Hermitage-<hi>ſtairs in</hi> Wapping.</p>
+            <pb facs="tcp:151324:12"/>
+            <pb facs="tcp:151324:13"/>
+            <p>
+               <figure>
+                  <figDesc>map of the coasts of England, Flanders, and Holland</figDesc>
+                  <head>A Chart of the Seacoaſts of ENGLAND FLANDERS &amp; HOLLAND Shewing all the Sands Shoals Rocks and Dangers The Bayes Roads Harbours Buoyes Beacons and Seamarks on the ſaid coaſts. By John Seller Hydrographer in Ordinary to the King And are to be ſold at his Shoppe in Exchange-Alley in Cornhill and at the Hermitage in Wapping: London.</head>
+                  <figure>
+                     <head>Ornat mo Conſult mo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Viro D. JOS. WILLIAMSON Equiti Aurato, Jn Regni Comitijs Senatori. Regiae Majeſtati ab Archivis ſtatus, Et Sanctiori Concilio a Secretis. Tabulam hanc qualem qualem L. M. D. C. Q Joh Sellerus.</head>
+                  </figure>
+                  <byline>Jo: Clark ſculpſit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:151324:14"/>
+            <pb facs="tcp:151324:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
